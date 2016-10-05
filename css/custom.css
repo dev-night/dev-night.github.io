@@ -9,3 +9,52 @@
 }
 
 .shadowfilter { filter: drop-shadow(8px 8px 5px rgba(0,0,0,0.15)); }
+
+.events tbody {
+	font-size: 12px;
+}
+
+.events tbody .repo_link{
+	text-decoration: none;
+	border: none;
+	color:#778087;
+}
+
+.events tbody .repo_link:hover{
+	background-color: initial;
+	color:#778087;
+}
+
+.events tbody .fa-2 {
+	font-size: 18px;
+	opacity: 0.5;
+}
+
+.events tbody .fa-2:hover {
+	font-size: 18px;
+	opacity: 1;
+}
+
+.linkjuice__icon {
+    background: url(../img/link.svg) no-repeat 0 0;
+    display: inline-block;
+    height: 25px;
+    width: 22px
+}
+
+.linkjuice__icon-white {
+	background: url(../img/link-white.svg) no-repeat 0 0 !important;
+}
+
+.linkjuice-icon {
+    top: -6px;
+    left: -35px;
+    position: absolute;
+    display: none;
+    opacity: .1
+}
+
+.linkjuice:hover .linkjuice-icon {
+    opacity: .8;
+    display: block
+}
