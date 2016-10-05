@@ -2,6 +2,7 @@
 <head>
     <link rel="stylesheet" href="css/hack.css">
     <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/solarized-dark.css">
     <meta charset="utf-8">
 </head>
@@ -50,11 +51,42 @@
         <p>Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in Pairs am Rechner anhand einer Challenge vertieft und verfestigt.</p>
 
         <h2>Vergangene Treffen</h2>
-        <ul>
-            <!--<li><b>11.10.2016 #003</b> - "TDD (Test Driven Development)" mit <a href="https://twitter.com/sd_alt">@sd_alt</a></li>-->
-            <li><b>13.09.2016 #002</b> - "CQRS/ES (Command Query Responsibility Segregation und Event Sourcing)" mit <a href="https://twitter.com/stesie23">@stesie23</a></li>
-            <li><b>09.08.2016 #001</b> - "Transaction Patterns" mit <a href="https://twitter.com/niklas_heer">@niklas_heer</a></li>
-        </ul>
+
+
+        <table class="events">
+            <thead>
+                <tr>
+                    <th>Nr.</th>
+                    <th>Datum</th>
+                    <th>Thema</th>
+                    <th>Redner</th>
+                    <th>Repo</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>#003</td>
+                    <td>11.10.2016</td>
+                    <td>TDD (Test Driven Development)</td>
+                    <td><a href="https://twitter.com/sd_alt">@sd_alt</a></td>
+                    <td><a class="repo_link" href="https://github.com/dev-night/2016-10-11_test-driven-development"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+                </tr>
+                <tr>
+                    <td>#002</td>
+                    <td>13.09.2016</td>
+                    <td>CQRS/ES (Command Query Responsibility Segregation und Event Sourcing)</td>
+                    <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
+                    <td><a class="repo_link" href="https://github.com/dev-night/2016-09-13_event-sourcing"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+                </tr>
+                <tr>
+                    <td>#001</td>
+                    <td>09.08.2016</td>
+                    <td>Transaction Patterns</td>
+                    <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
+                    <td><a class="repo_link" href="https://github.com/dev-night/2016-08-09_transaction-patterns"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+                </tr>
+            </tbody>
+        </table>
 
         <h2>Was über uns geschrieben wird</h2>
         <ul>
@@ -67,6 +99,7 @@
     </div>
 
     <script src="js/zepto.min.js"></script>
+    <script src="js/linkjuice.min.js"></script>
     <script src="js/main.js"></script>
 
 </body>
