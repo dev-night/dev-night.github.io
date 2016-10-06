@@ -10,6 +10,8 @@
 
 .shadowfilter { filter: drop-shadow(8px 8px 5px rgba(0,0,0,0.15)); }
 
+.shadowfilter_white { filter: drop-shadow(4px 4px 8px rgba(255,255,255,0.15)); }
+
 .events tbody {
 	font-size: 12px;
 }
@@ -96,12 +98,12 @@
 	opacity: .5;
 }
 
-
 .grid img {
 	max-width:100%;
 	max-height:100%;
 }
 
 .grid .cell {
-	margin: 5px
+	margin: 5px;
+
 }

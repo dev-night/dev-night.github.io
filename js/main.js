@@ -10,6 +10,9 @@ $(document).ready(function() {
 
 		// Display white icon
 		$('.linkjuice__icon').toggleClass('linkjuice__icon-white');
+
+		$('#logo').toggleClass('shadowfilter');
+		$('#logo').toggleClass('shadowfilter_white');
 	})
 
 
