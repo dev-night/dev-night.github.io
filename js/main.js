@@ -15,10 +15,7 @@ $(document).ready(function() {
 		$('#logo').toggleClass('shadowfilter_white');
 	})
 
-
-	// Automatic links
 	linkjuice.init('.container',{selectors:['h2','h3','h4','h5'],icon:'<i class="linkjuice__icon"></i>'});
-
 
 	// Scroll To Top
 	// browser window scroll (in pixels) after which the "back to top" link is shown
