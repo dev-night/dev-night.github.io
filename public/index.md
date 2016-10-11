@@ -35,7 +35,7 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
 
 ## Ein paar Bilder
 
-<!-- command: convert img/events/stesie.jpg -resize 300 img/events/thumbs/stesie.jpg -->
+
 <div class="event-images">
     <div class="grid">
         <div class="cell -3of12">
@@ -96,7 +96,6 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
     </div>
 </div>
 
-<br />
 
 ## Vergangene Treffen
 
