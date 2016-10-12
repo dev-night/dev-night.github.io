@@ -10,12 +10,12 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 
 ## Nächstes Treffen
 
-__Wichtig:__ Bitte denk daran, unbedingt einen Laptop mit eingerichteter Entwicklungs- und Testumgebung Deiner Wahl mitzubringen.
+<div class="alert alert-info">Bitte denk daran, unbedingt einen Laptop mit eingerichteter __Entwicklungs-__ und __Testumgebung__ Deiner Wahl mitzubringen.</div>
 
-- Datum: 11. Oktober 2016
+- Datum: 8. November 2016
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: TDD (Test Driven Development)
+- Thema: _TBA_ <small>(TDD++, Baby-Steps, Refactoring, Code-Smells, Clean-Code)</small>
 - Für Getränke ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -24,11 +24,9 @@ __Wichtig:__ Bitte denk daran, unbedingt einen Laptop mit eingerichteter Entwick
 - Telegram-Gruppe: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
 
-Die /dev/night geht in die dritte Runde. Sie findet am 11. Oktober um 19:15 Uhr statt
+Die /dev/night geht in die vierte Runde. Sie findet am 8. November um 19:15 Uhr statt
 
-Dieses mal wird uns [Matthias](https://twitter.com/sd_alt) in die Welt des __Test Driven Developments__ entführen und uns gegen Ende auch einige Tools zeigen die er dafür einsetzt.
-TDD kann sehr hilfreich sein robusteren und sauberen Code zu erzeugen. Das heißt letztlich, dass ihr euch bei Änderungen an mit TDD erzeugtem Code weniger Sorgen um eine Regression machen müsst. Es ist auch immer wieder erstaunlich wie sich das Code-Design durch TDD zum besseren wendet. Aber mehr dann von Matthias.
-Hört sich das zu gut an um wahr zu sein? Dann komm einfach vorbei und sieh es dir selbst an! ;)
+_Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)_
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
