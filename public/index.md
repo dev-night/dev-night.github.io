@@ -88,7 +88,7 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
 
 ## Was über uns geschrieben wird
 
-- 07.10.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["/dev/night - a story Die /dev/night geht in Serie: Zweites monatliches DEV-Meetup"](https://www.tradebyte.com/die-devnight-geht-in-serie-zweites-monatliches-dev-meetup/)
+- 07.10.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["/dev/night - Die /dev/night geht in Serie: Zweites monatliches DEV-Meetup"](https://www.tradebyte.com/die-devnight-geht-in-serie-zweites-monatliches-dev-meetup/)
 - 04.10.2016 / [@niklas_heer](https://twitter.com/niklas_heer) - ["/dev/night - a story continues"](https://blog.nheer.io/2016/10/04/dev/night---a-story-continues/)
 - 12.09.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["Startschuss: Erstes lokales DEV-Meetup"](https://www.tradebyte.com/startschuss-erstes-lokales-dev-meetup/)
 - 10.09.2016 / [@stesie23](https://twitter.com/stesie23) - ["Starting a local developer meetup"](http://stesie.github.io/2016/08/first-dev-night)
