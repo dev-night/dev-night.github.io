@@ -15,7 +15,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Datum: 8. November 2016
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: <i>noch nicht festgelegt<i> <small>(TDD++, Baby-Steps, Refactoring, Code-Smells, Clean-Code)</small>
+- Thema: <i>noch nicht festgelegt</i> <small>(TDD++, Baby-Steps, Refactoring, Code-Smells, Clean-Code)</small>
 - Für Getränke ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -26,7 +26,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 
 Die /dev/night geht in die vierte Runde. Sie findet am 8. November um 19:15 Uhr statt
 
-_Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)_
+<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
