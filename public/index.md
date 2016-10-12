@@ -10,12 +10,12 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 
 ## Nächstes Treffen
 
-<div class="alert alert-info">Bitte denk daran, unbedingt einen Laptop mit eingerichteter __Entwicklungs-__ und __Testumgebung__ Deiner Wahl mitzubringen.</div>
+<div class="alert alert-info">Bitte denk daran, unbedingt einen Laptop mit eingerichteter <b>Entwicklungs-</b> und <b>Testumgebung</b> Deiner Wahl mitzubringen.</div>
 
 - Datum: 8. November 2016
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: _TBA_ <small>(TDD++, Baby-Steps, Refactoring, Code-Smells, Clean-Code)</small>
+- Thema: <i>noch nicht festgelegt<i> <small>(TDD++, Baby-Steps, Refactoring, Code-Smells, Clean-Code)</small>
 - Für Getränke ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
