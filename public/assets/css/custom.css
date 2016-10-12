@@ -8,9 +8,15 @@
 	width: 400px;
 }
 
-.shadowfilter { filter: drop-shadow(8px 8px 5px rgba(0,0,0,0.15)); }
+.shadowfilter {
+	filter: drop-shadow(8px 8px 5px rgba(0,0,0,0.15));
+	-webkit-filter: drop-shadow(8px 8px 5px rgba(0,0,0,0.15));
+}
 
-.shadowfilter_white { filter: drop-shadow(4px 4px 8px rgba(255,255,255,0.15)); }
+.shadowfilter_white {
+	filter: drop-shadow(4px 4px 8px rgba(255,255,255,0.15));
+	-webkit-filter: drop-shadow(4px 4px 8px rgba(255,255,255,0.15));
+}
 
 .events tbody {
 	font-size: 12px;
