@@ -36,65 +36,19 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
 ## Ein paar Bilder
 
 
-<div class="event-images">
-    <div class="grid">
-        <div class="cell -3of12">
-            <div class="content">
-                <a href="/assets/img/events/stesie.jpg"><img src="/assets/img/events/thumbs/stesie.jpg"></a>
-            </div>
-        </div>
-
-        <div class="cell -3of12">
-            <div class="content">
-                <a href="/assets/img/events/food.jpg"><img src="/assets/img/events/thumbs/food.jpg"></a>
-            </div>
-        </div>
-
-        <div class="cell -3of12">
-            <div class="content">
-                <a href="/assets/img/events/it_begins.jpg"><img src="/assets/img/events/thumbs/it_begins.jpg"></a>
-            </div>
-        </div>
-
-        <div class="cell -3of12">
-            <div class="content">
-                <a href="/assets/img/events/mate2.jpg"><img src="/assets/img/events/thumbs/mate2.jpg"></a>
-            </div>
-        </div>
-    </div>
-    <div class="grid">
-        <div class="cell -3of12">
-            <div class="content">
-                <a href="/assets/img/events/pairs.jpg"><img src="/assets/img/events/thumbs/pairs.jpg"></a>
-            </div>
-        </div>
-
-        <div class="cell -3of12">
-            <div class="content">
-                <a href="/assets/img/events/stesie2.jpg"><img src="/assets/img/events/thumbs/stesie2.jpg"></a>
-            </div>
-        </div>
-
-        <div class="cell -3of12">
-            <div class="content">
-                <a href="/assets/img/events/stickers.jpg"><img src="/assets/img/events/thumbs/stickers.jpg"></a>
-            </div>
-        </div>
-
-        <div class="cell -3of12">
-            <div class="content">
-                <a href="/assets/img/events/pairs2.jpg"><img src="/assets/img/events/thumbs/pairs2.jpg"></a>
-            </div>
-        </div>
-    </div>
-    <div class="grid">
-        <div class="cell -3of12">
-            <div class="content">
-                <a href="/assets/img/events/mate.jpg"><img src="/assets/img/events/thumbs/mate.jpg"></a>
-            </div>
-        </div>
-    </div>
+<!-- command: convert img/events/stesie.jpg -resize 300 img/events/thumbs/stesie.jpg -->
+<div class="fotorama" data-nav="thumbs">
+	<a href="/assets/img/events/stesie.jpg"><img src="/assets/img/events/thumbs/stesie.jpg" width="144" height="96"></a>
+	<a href="/assets/img/events/pairs.jpg"><img src="/assets/img/events/thumbs/pairs.jpg" width="144" height="96"></a>
+	<a href="/assets/img/events/food.jpg"><img src="/assets/img/events/thumbs/food.jpg" width="144" height="96"></a>
+	<a href="/assets/img/events/it_begins.jpg"><img src="/assets/img/events/thumbs/it_begins.jpg" width="144" height="96"></a>
+	<a href="/assets/img/events/mate2.jpg"><img src="/assets/img/events/thumbs/mate2.jpg" width="144" height="96"></a>
+	<a href="/assets/img/events/stesie2.jpg"><img src="/assets/img/events/thumbs/stesie2.jpg" width="144" height="96"></a>
+	<a href="/assets/img/events/stickers.jpg"><img src="/assets/img/events/thumbs/stickers.jpg" width="144" height="96"></a>
+	<a href="/assets/img/events/pairs2.jpg"><img src="/assets/img/events/thumbs/pairs2.jpg" width="144" height="96"></a>
+	<a href="/assets/img/events/mate.jpg"><img src="/assets/img/events/thumbs/mate.jpg" width="144" height="96"></a>
 </div>
+<br />
 
 
 ## Vergangene Treffen
