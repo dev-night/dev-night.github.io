@@ -101,4 +101,4 @@ Sehr gerne, denn die /dev/night lebt gerade von ihren Teilnehmern. Falls du scho
 
 ## Fehler auf der Seite gefunden?
 
-Entweder uns einfach per [Mail](mailto:dev-night@tradebyte.com) oder [Twitter](https://twitter.com/dev_night) schreiben oder einfach einen [Pull-Request](https://github.com/dev-night/dev-night.github.io/pulls) machen. ;)
+Du kannst uns entweder über [Mail](mailto:niklas@dev-night.io) oder [Twitter](https://twitter.com/dev_night) Bescheid geben oder einfach selbst einen [Pull-Request](https://github.com/dev-night/dev-night.github.io/pulls) machen. Danke! ;)
