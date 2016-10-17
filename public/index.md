@@ -27,6 +27,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
+<a href="https://www.meetup.com/dev_night/events/234915583/" data-event="234915583" class="mu-rsvp-btn">RSVP</a>
 
 Die /dev/night geht in die vierte Runde. Sie findet am 8. November um 19:15 Uhr statt
 
@@ -106,3 +107,7 @@ Sehr gerne, denn die /dev/night lebt gerade von ihren Teilnehmern. Falls du scho
 ## Fehler auf der Seite gefunden?
 
 Du kannst uns entweder über [Mail](mailto:niklas@dev-night.io) oder [Twitter](https://twitter.com/dev_night) Bescheid geben oder einfach selbst einen [Pull-Request](https://github.com/dev-night/dev-night.github.io/pulls) machen. Danke! ;)
+
+
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=4bc7r9mrsul96aol5f3bp5onig";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
