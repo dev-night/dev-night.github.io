@@ -25,7 +25,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
-- Telegram-Gruppe: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
+- Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
 
 Die /dev/night geht in die vierte Runde. Sie findet am 8. November um 19:15 Uhr statt
