@@ -10,7 +10,11 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 
 ## Nächstes Treffen
 
-<div class="alert alert-info">Falls du schon weißt worum es geht bitten wir dich daran zu denken, einen Laptop mit eingerichteter <a href="https://github.com/dev-night/tdd-starting-point"><b>Entwicklungs-</b> und <b>Testumgebung</b></a> deiner Wahl mitzubringen. Falls du noch nicht so recht weißt was es damit auf sich hat, komm einfach mit deinem Laptop vorbei. :)</div>
+<div class="alert alert-info">
+	Falls du schon weißt worum es geht bitten wir dich daran zu denken, einen Laptop mit eingerichteter <a href="https://github.com/dev-night/tdd-starting-point"><b>Entwicklungs-</b> und <b>Testumgebung</b></a> deiner Wahl mitzubringen. Falls du noch nicht so recht weißt was es damit auf sich hat, komm einfach mit einem Laptop vorbei.
+	<br />
+	Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wikipedia.org/wiki/Testgetriebene_Entwicklung">TDD</a>-Crashkurs zu geben, wenn du willst. ;)
+</div>
 
 - Datum: 8. November 2016
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
