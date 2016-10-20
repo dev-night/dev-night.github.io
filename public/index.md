@@ -42,22 +42,16 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
 
 <!-- command: convert img/events/stesie.jpg -resize 300 img/events/thumbs/stesie.jpg -->
 <div class="fotorama" data-nav="thumbs">
-
-    <!-- #001 -->
 	<a href="/assets/img/events/001_mate.jpg"><img src="/assets/img/events/thumbs/001_mate.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/001_it_begins.jpg"><img src="/assets/img/events/thumbs/001_it_begins.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/001_pairs.jpg"><img src="/assets/img/events/thumbs/001_pairs.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/001_stesie.jpg"><img src="/assets/img/events/thumbs/001_stesie.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/001_talk.jpg"><img src="/assets/img/events/thumbs/001_talk.jpg" width="144" height="96"></a>
-
-    <!-- #002 -->
     <a href="/assets/img/events/002_food.jpg"><img src="/assets/img/events/thumbs/002_food.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/002_mate.jpg"><img src="/assets/img/events/thumbs/002_mate.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/002_stesie.jpg"><img src="/assets/img/events/thumbs/002_stesie.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/002_stickers.jpg"><img src="/assets/img/events/thumbs/002_stickers.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/002_pairs.jpg"><img src="/assets/img/events/thumbs/002_pairs.jpg" width="144" height="96"></a>
-
-    <!-- #003 -->
     <a href="/assets/img/events/003_talk.jpg"><img src="/assets/img/events/thumbs/003_talk.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/003_talk2.jpg"><img src="/assets/img/events/thumbs/003_talk2.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/003_room.jpg"><img src="/assets/img/events/thumbs/003_room.jpg" width="144" height="96"></a>
