@@ -42,15 +42,35 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
 
 <!-- command: convert img/events/stesie.jpg -resize 300 img/events/thumbs/stesie.jpg -->
 <div class="fotorama" data-nav="thumbs">
-	<a href="/assets/img/events/stesie.jpg"><img src="/assets/img/events/thumbs/stesie.jpg" width="144" height="96"></a>
-	<a href="/assets/img/events/pairs.jpg"><img src="/assets/img/events/thumbs/pairs.jpg" width="144" height="96"></a>
-	<a href="/assets/img/events/food.jpg"><img src="/assets/img/events/thumbs/food.jpg" width="144" height="96"></a>
-	<a href="/assets/img/events/it_begins.jpg"><img src="/assets/img/events/thumbs/it_begins.jpg" width="144" height="96"></a>
-	<a href="/assets/img/events/mate2.jpg"><img src="/assets/img/events/thumbs/mate2.jpg" width="144" height="96"></a>
-	<a href="/assets/img/events/stesie2.jpg"><img src="/assets/img/events/thumbs/stesie2.jpg" width="144" height="96"></a>
-	<a href="/assets/img/events/stickers.jpg"><img src="/assets/img/events/thumbs/stickers.jpg" width="144" height="96"></a>
-	<a href="/assets/img/events/pairs2.jpg"><img src="/assets/img/events/thumbs/pairs2.jpg" width="144" height="96"></a>
-	<a href="/assets/img/events/mate.jpg"><img src="/assets/img/events/thumbs/mate.jpg" width="144" height="96"></a>
+
+    <!-- #001 -->
+	<a href="/assets/img/events/001_mate.jpg"><img src="/assets/img/events/thumbs/001_mate.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/001_it_begins.jpg"><img src="/assets/img/events/thumbs/001_it_begins.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/001_pairs.jpg"><img src="/assets/img/events/thumbs/001_pairs.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/001_stesie.jpg"><img src="/assets/img/events/thumbs/001_stesie.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/001_talk.jpg"><img src="/assets/img/events/thumbs/001_talk.jpg" width="144" height="96"></a>
+
+    <!-- #002 -->
+    <a href="/assets/img/events/002_food.jpg"><img src="/assets/img/events/thumbs/002_food.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/002_mate.jpg"><img src="/assets/img/events/thumbs/002_mate.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/002_stesie.jpg"><img src="/assets/img/events/thumbs/002_stesie.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/002_stickers.jpg"><img src="/assets/img/events/thumbs/002_stickers.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/002_pairs.jpg"><img src="/assets/img/events/thumbs/002_pairs.jpg" width="144" height="96"></a>
+
+    <!-- #003 -->
+    <a href="/assets/img/events/003_talk.jpg"><img src="/assets/img/events/thumbs/003_talk.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_talk2.jpg"><img src="/assets/img/events/thumbs/003_talk2.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_room.jpg"><img src="/assets/img/events/thumbs/003_room.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_crowd1.jpg"><img src="/assets/img/events/thumbs/003_crowd1.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_crowd2.jpg"><img src="/assets/img/events/thumbs/003_crowd2.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_crowd3.jpg"><img src="/assets/img/events/thumbs/003_crowd3.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_mate.jpg"><img src="/assets/img/events/thumbs/003_mate.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_sticker.jpg"><img src="/assets/img/events/thumbs/003_sticker.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_pairs1.jpg"><img src="/assets/img/events/thumbs/003_pairs1.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_pairs2.jpg"><img src="/assets/img/events/thumbs/003_pairs2.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_pairs3.jpg"><img src="/assets/img/events/thumbs/003_pairs3.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_pairs4.jpg"><img src="/assets/img/events/thumbs/003_pairs4.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/003_pairs5.jpg"><img src="/assets/img/events/thumbs/003_pairs5.jpg" width="144" height="96"></a>
 </div>
 <br />
 
