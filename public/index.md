@@ -22,13 +22,13 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Uhrzeit: 19:15
 - Thema: "TDD++ - Wie schreibe ich testbaren Code?" mit [Stefan](https://twitter.com/stesie23)
 - Für Getränke & Pizza ist gesorgt
-- Meetup: [meetup.com/dev_night](https://meetup.com/dev_night) <a href="https://www.meetup.com/dev_night/events/234915583/" data-event="234915583" class="mu-rsvp-btn">RSVP</a>
+- Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Die /dev/night geht in die vierte Runde. Sie findet am 8. November um 19:15 Uhr statt
+Die /dev/night geht in die vierte Runde. Sie findet am 8. November um 19:15 Uhr statt.
 
 Auf der vierten /dev/night wird uns [Stefan](https://twitter.com/stesie23) ein paar Techniken näher bringen, die uns helfen können testbaren Code zu schreiben.
 
