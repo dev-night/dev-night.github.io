@@ -22,7 +22,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Uhrzeit: 19:15
 - Thema: "TDD++ - Wie schreibe ich testbaren Code?" mit [Stefan](https://twitter.com/stesie23)
 - Für Getränke & Pizza ist gesorgt
-- Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
+- Meetup: [meetup.com/dev_night](https://meetup.com/dev_night) <a href="https://www.meetup.com/dev_night/events/234915583/" data-event="234915583" class="mu-rsvp-btn">RSVP</a>
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
@@ -42,8 +42,6 @@ Auf der vierten /dev/night wird uns [Stefan](https://twitter.com/stesie23) ein p
     - Mocking haben wir schon beim letzten mal besprochen, diesmal wollen wir uns diesem elementaren Konzept nochmal anhand eines Beispiels nähern.
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
-
-<a href="https://www.meetup.com/dev_night/events/234915583/" data-event="234915583" class="mu-rsvp-btn">RSVP</a>
 
 
 ## Ein paar Bilder
