@@ -20,7 +20,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Datum: 8. November 2016
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: <i>noch nicht festgelegt</i> <small>(TDD++, Baby-Steps, Refactoring, Code-Smells, Clean-Code)</small>
+- Thema: "TDD++ - Wie schreibe ich testbaren Code?" mit [Stefan](https://twitter.com/stesie23)
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -28,17 +28,25 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-<!-- <a href="https://www.meetup.com/dev_night/events/234915583/" data-event="234915583" class="mu-rsvp-btn">RSVP</a> -->
-
 Die /dev/night geht in die vierte Runde. Sie findet am 8. November um 19:15 Uhr statt
 
-<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
+Auf der vierten /dev/night wird uns [Stefan](https://twitter.com/stesie23) ein paar Techniken näher bringen, die uns helfen können testbaren Code zu schreiben.
+
+- Red-Green-Cycle
+    - Dieses Konzept hilft uns erst so richtig testgetrieben zu entwickeln. Zuerst die Tests schreiben und dann erst den Code.
+- Baby-Steps
+    - Dieses Konzept hilft uns sich nach und nach der Lösung anzunähern. So hat man schnell Feedback und verrennt sich weniger.
+- Arrange Act Assert
+    - Dieses Konzept hilft uns unsere Unit Tests richtig aufzubauen.
+- Mocking by Example
+    - Mocking haben wir schon beim letzten mal besprochen, diesmal wollen wir uns diesem elementaren Konzept nochmal anhand eines Beispiels nähern.
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
+<a href="https://www.meetup.com/dev_night/events/234915583/" data-event="234915583" class="mu-rsvp-btn">RSVP</a>
+
 
 ## Ein paar Bilder
-
 
 <!-- command: convert img/events/stesie.jpg -resize 300 img/events/thumbs/stesie.jpg -->
 <div class="fotorama" data-nav="thumbs">
