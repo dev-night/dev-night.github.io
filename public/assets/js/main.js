@@ -1,4 +1,4 @@
-$(document).ready(function() {
+jQuery(document).ready(function($){
 
 	// Dark Mode
 	$('#dark_mode').on('click', function(e){
