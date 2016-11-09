@@ -17,10 +17,10 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 	Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wikipedia.org/wiki/Testgetriebene_Entwicklung">TDD</a>-Crashkurs zu geben, wenn du willst. ;)
 </div>
 
-- Datum: 8. November 2016
+- Datum: 13. Dezember 2016
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: "TDD++ - Wie schreibe ich testbaren Code?" mit [Stefan](https://twitter.com/stesie23)
+- Thema: <i>noch nicht festgelegt</i> <small>(nochmal TDD?, Softwarecraftsmanship oder Clean Code)</small>
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -28,18 +28,9 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Die /dev/night geht in die vierte Runde. Sie findet am 8. November um 19:15 Uhr statt.
+Die /dev/night geht in die fünfte Runde. Sie findet am 13. Dezember um 19:15 Uhr statt.
 
-Auf der vierten /dev/night wird uns [Stefan](https://twitter.com/stesie23) ein paar Techniken näher bringen, die uns helfen können testbaren Code zu schreiben.
-
-- Red-Green-Cycle
-    - Dieses Konzept hilft uns erst so richtig testgetrieben zu entwickeln. Zuerst die Tests schreiben und dann erst den Code.
-- Baby-Steps
-    - Dieses Konzept hilft uns sich nach und nach der Lösung anzunähern. So hat man schnell Feedback und verrennt sich weniger.
-- Arrange Act Assert
-    - Dieses Konzept hilft uns unsere Unit Tests richtig aufzubauen.
-- Mocking by Example
-    - Mocking haben wir schon beim letzten mal besprochen, diesmal wollen wir uns diesem elementaren Konzept nochmal anhand eines Beispiels nähern.
+<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
@@ -89,6 +80,13 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
     </thead>
     <tbody>
         <tr>
+            <td>#004</td>
+            <td>08.11.2016</td>
+            <td>TDD++ - Wie schreibe ich testbaren Code?"</td>
+            <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2016-11-08_TDD-continued"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
             <td>#003</td>
             <td>11.10.2016</td>
             <td>TDD (Test Driven Development)</td>
@@ -114,6 +112,7 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
 
 ## Was über uns geschrieben wird
 
+- 03.11.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["Die dritte /dev/night war ein überwältigender Erfolg"](https://www.tradebyte.com/die-dritte-devnight-war-ein-ueberwaeltigender-erfolg/)
 - 25.10.2016 / [@niklas_heer](https://twitter.com/niklas_heer) - ["/dev/night - third time's the charm"](https://blog.nheer.io/2016/10/25/dev/night---third-times-the-charm/)
 - 07.10.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["/dev/night - Die /dev/night geht in Serie: Zweites monatliches DEV-Meetup"](https://www.tradebyte.com/die-devnight-geht-in-serie-zweites-monatliches-dev-meetup/)
 - 04.10.2016 / [@niklas_heer](https://twitter.com/niklas_heer) - ["/dev/night - a story continues"](https://blog.nheer.io/2016/10/04/dev/night---a-story-continues/)
