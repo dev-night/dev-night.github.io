@@ -20,7 +20,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Datum: 13. Dezember 2016
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: <i>noch nicht festgelegt</i> <small>(nochmal TDD?, Softwarecraftsmanship oder Clean Code)</small>
+- Thema: Software Craftsmanship
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -30,7 +30,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 
 Die /dev/night geht in die fünfte Runde. Sie findet am 13. Dezember um 19:15 Uhr statt.
 
-<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
+Auf der fünften /dev/night wird uns [Niklas](https://twitter.com/niklas_heer) erklären was es mit der "Software Craftsmanship"-Bewegung auf sich hat und was wir von der Bewegung lernen können.
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
