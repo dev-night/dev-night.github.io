@@ -112,6 +112,7 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
 
 ## Was über uns geschrieben wird
 
+- 22.11.2016 / [@niklas_heer](https://twitter.com/niklas_heer) - ["/dev/night - baby steps to awesomeness"](https://blog.nheer.io/2016/11/22/dev/night---baby-steps-to-awesomeness/)
 - 03.11.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["Die dritte /dev/night war ein überwältigender Erfolg"](https://www.tradebyte.com/die-dritte-devnight-war-ein-ueberwaeltigender-erfolg/)
 - 25.10.2016 / [@niklas_heer](https://twitter.com/niklas_heer) - ["/dev/night - third time's the charm"](https://blog.nheer.io/2016/10/25/dev/night---third-times-the-charm/)
 - 07.10.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["/dev/night - Die /dev/night geht in Serie: Zweites monatliches DEV-Meetup"](https://www.tradebyte.com/die-devnight-geht-in-serie-zweites-monatliches-dev-meetup/)
