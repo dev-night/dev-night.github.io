@@ -62,6 +62,9 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
     <a href="/assets/img/events/003_pairs3.jpg"><img src="/assets/img/events/thumbs/003_pairs3.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/003_pairs4.jpg"><img src="/assets/img/events/thumbs/003_pairs4.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/003_pairs5.jpg"><img src="/assets/img/events/thumbs/003_pairs5.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/004_group1.jpg"><img src="/assets/img/events/thumbs/004_group1.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/004_group2.jpg"><img src="/assets/img/events/thumbs/004_group2.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/004_hacking.jpg"><img src="/assets/img/events/thumbs/004_hacking.jpg" width="144" height="96"></a>
 </div>
 <br />
 
@@ -112,6 +115,7 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
 
 ## Was über uns geschrieben wird
 
+- 05.12.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["Die /dev/night im November: Challenging TDD"](https://www.tradebyte.com/die-devnight-im-november-challenging-tdd/)
 - 22.11.2016 / [@niklas_heer](https://twitter.com/niklas_heer) - ["/dev/night - baby steps to awesomeness"](https://blog.nheer.io/2016/11/22/dev/night---baby-steps-to-awesomeness/)
 - 03.11.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["Die dritte /dev/night war ein überwältigender Erfolg"](https://www.tradebyte.com/die-dritte-devnight-war-ein-ueberwaeltigender-erfolg/)
 - 25.10.2016 / [@niklas_heer](https://twitter.com/niklas_heer) - ["/dev/night - third time's the charm"](https://blog.nheer.io/2016/10/25/dev/night---third-times-the-charm/)
