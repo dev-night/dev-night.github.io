@@ -17,10 +17,10 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 	Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wikipedia.org/wiki/Testgetriebene_Entwicklung">TDD</a>-Crashkurs zu geben, wenn du willst. ;)
 </div>
 
-- Datum: 13. Dezember 2016
+- Datum: 10. Januar 2017
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: Software Craftsmanship
+- Thema: <i>noch nicht festgelegt</i> <small>
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -28,9 +28,9 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Die /dev/night geht in die fünfte Runde. Sie findet am 13. Dezember um 19:15 Uhr statt.
+Die /dev/night geht in die sechste Runde. Sie findet am 10. Januar um 19:15 Uhr statt.
 
-Auf der fünften /dev/night wird uns [Niklas](https://twitter.com/niklas_heer) erklären was es mit der "Software Craftsmanship"-Bewegung auf sich hat und was wir von der Bewegung lernen können.
+<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
@@ -83,9 +83,16 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
     </thead>
     <tbody>
         <tr>
+            <td>#005</td>
+            <td>13.12.2016</td>
+            <td>Christmas Hack</td>
+            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2016-12-13_christmas-hack"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
             <td>#004</td>
             <td>08.11.2016</td>
-            <td>TDD++ - Wie schreibe ich testbaren Code?"</td>
+            <td>TDD++ - "Wie schreibe ich testbaren Code?"</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/2016-11-08_TDD-continued"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
