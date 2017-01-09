@@ -17,10 +17,10 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 	Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wikipedia.org/wiki/Testgetriebene_Entwicklung">TDD</a>-Crashkurs zu geben, wenn du willst. ;)
 </div>
 
-- Datum: 10. Januar 2017
+- Datum: 17. Januar 2016
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: <i>noch nicht festgelegt</i> <small>
+- Thema: Global Game Jam [#GGJ17](http://globalgamejam.org/) - Vorbereitung
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -28,9 +28,9 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Die /dev/night geht in die sechste Runde. Sie findet am 10. Januar um 19:15 Uhr statt.
+Die /dev/night geht in die sechste Runde. Sie findet am 17. Dezember um 19:15 Uhr statt.
 
-<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
+Auf der sechsten /dev/night werden wir uns gemeinsam auf den [Global Game Jam](http://globalgamejam.org/) vorbereiten, welcher vom 20. bis 22.01.2017 auch in den Räumen von Tradebyte stattfinden wird.
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
