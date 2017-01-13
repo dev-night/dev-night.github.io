@@ -28,7 +28,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Die /dev/night geht in die sechste Runde. Sie findet am 17. Dezember um 19:15 Uhr statt.
+Die /dev/night geht in die sechste Runde. Sie findet am 17. Januar um 19:15 Uhr statt.
 
 Auf der sechsten /dev/night werden wir uns gemeinsam auf den [Global Game Jam](http://globalgamejam.org/) vorbereiten, welcher vom 20. bis 22.01.2017 auch in den Räumen von Tradebyte stattfinden wird.
 
