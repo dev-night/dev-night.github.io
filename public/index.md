@@ -17,10 +17,10 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 	Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wikipedia.org/wiki/Testgetriebene_Entwicklung">TDD</a>-Crashkurs zu geben, wenn du willst. ;)
 </div>
 
-- Datum: 17. Januar 2016
+- Datum: 14. Februar 2017
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: Global Game Jam [#GGJ17](http://globalgamejam.org/) - Vorbereitung
+- Thema: <i>noch nicht festgelegt</i>
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -28,9 +28,9 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Die /dev/night geht in die sechste Runde. Sie findet am 17. Januar um 19:15 Uhr statt.
+Die /dev/night geht in die sechste Runde. Sie findet am 14. Februar um 19:15 Uhr statt.
 
-Auf der sechsten /dev/night werden wir uns gemeinsam auf den [Global Game Jam](http://globalgamejam.org/) vorbereiten, welcher vom 20. bis 22.01.2017 auch in den Räumen von Tradebyte stattfinden wird.
+<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
@@ -82,6 +82,13 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>#006</td>
+            <td>17.01.2017</td>
+            <td> Global Game Jam - Vorbereitung</td>
+            <td><a href="https://github.com/Akuryou">Akuryou</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2017-01-17_ggj-prepared"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#005</td>
             <td>13.12.2016</td>
