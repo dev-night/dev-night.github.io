@@ -20,7 +20,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Datum: 14. Februar 2017
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: [SOLID](https://de.wikipedia.org/wiki/Prinzipien_objektorientierten_Designs#SOLID-Prinzipien)-Prinzipien
+- Thema: [SOLID](https://de.wikipedia.org/wiki/Prinzipien_objektorientierten_Designs#SOLID-Prinzipien)-Prinzipien mit [@sd_alt](https://twitter.com/sd_alt)
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -30,7 +30,9 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 
 Die /dev/night geht in die sechste Runde. Sie findet am 14. Februar um 19:15 Uhr statt.
 
-Das objektorientierte Programmieren kennt verschiedenste Prinzipien, die zu gutem objektorientierten Design führen sollen. [SOLID](https://de.wikipedia.org/wiki/Prinzipien_objektorientierten_Designs#SOLID-Prinzipien) verspricht eine höhere Wartbarkeit von Software. Hinter dem Akronym verbergen sich die Prinzipien: "Single Responsiblity", "Open-Closed", "Liskovsche Substitution", "Interface Segregation" und "Dependency Inversion".
+Das objektorientierte Programmieren kennt verschiedenste Prinzipien, die zu gutem objektorientierten Design führen sollen.
+[SOLID](https://de.wikipedia.org/wiki/Prinzipien_objektorientierten_Designs#SOLID-Prinzipien) verspricht eine höhere Wartbarkeit von Software.
+Hinter dem Akronym verbergen sich die Prinzipien: "Single Responsiblity", "Open-Closed", "Liskovsche Substitution", "Interface Segregation" und "Dependency Inversion".
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
