@@ -17,10 +17,10 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 	Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wikipedia.org/wiki/Testgetriebene_Entwicklung">TDD</a>-Crashkurs zu geben, wenn du willst. ;)
 </div>
 
-- Datum: 14. Februar 2017
+- Datum: 14. März 2017
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: [SOLID](https://de.wikipedia.org/wiki/Prinzipien_objektorientierten_Designs#SOLID-Prinzipien)-Prinzipien mit [@sd_alt](https://twitter.com/sd_alt)
+- Thema: [hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture) mit Patrick
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -28,11 +28,10 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Die /dev/night geht in die sechste Runde. Sie findet am 14. Februar um 19:15 Uhr statt.
+Die /dev/night geht in die achte Runde. Sie findet am 14. März um 19:15 Uhr statt.
 
-Das objektorientierte Programmieren kennt verschiedenste Prinzipien, die zu gutem objektorientierten Design führen sollen.
-[SOLID](https://de.wikipedia.org/wiki/Prinzipien_objektorientierten_Designs#SOLID-Prinzipien) verspricht eine höhere Wartbarkeit von Software.
-Hinter dem Akronym verbergen sich die Prinzipien: "Single Responsiblity", "Open-Closed", "Liskovsche Substitution", "Interface Segregation" und "Dependency Inversion".
+Die "[hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)" erlaubt es uns Applikationen zu entwerfen, für die man einfach automatische regression-tests fahren kann.
+Dies liegt an dem grundsätzlichen Aufbau der Applikation welche auf Adapter setzt, sodass die Applikation oder eigeneliche Business-Logik auch ohne GUI oder Datenbank funktioniert.
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
@@ -84,10 +83,24 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
         </tr>
     </thead>
     <tbody>
+        <!-- <tr>
+            <td>#008</td>
+            <td>14.03.2017</td>
+            <td>hexagonal architecture</td>
+            <td>Patrick</td>
+            <td><a class="repo_link" href="https://github.com/dev-night/????"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
+            <td>#007</td>
+            <td>14.02.2017</td>
+            <td>SOLID-Prinzipien</td>
+            <td><a href="https://twitter.com/sd_alt">@sd_alt</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2017-02-14_solid"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#006</td>
             <td>17.01.2017</td>
-            <td> Global Game Jam - Vorbereitung</td>
+            <td>Global Game Jam - Vorbereitung</td>
             <td><a href="https://github.com/Akuryou">Akuryou</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/2017-01-17_ggj-prepared"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
