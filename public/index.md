@@ -20,7 +20,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Datum: 14. März 2017
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: [hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture) mit Patrick
+- Thema: [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) mit Patrick
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -30,8 +30,8 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 
 Die /dev/night geht in die achte Runde. Sie findet am 14. März um 19:15 Uhr statt.
 
-Die "[hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)" erlaubt es uns Applikationen zu entwerfen, für die man einfach automatische regression-tests fahren kann.
-Dies liegt an dem grundsätzlichen Aufbau der Applikation welche auf Adapter setzt, sodass die Applikation oder eigeneliche Business-Logik auch ohne GUI oder Datenbank funktioniert.
+Die [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) erlaubt es uns Applikationen zu entwerfen, für die man einfach automatische regression-tests fahren kann.
+Dies liegt an dem grundsätzlichen Aufbau der Applikation welche auf Adapter setzt, sodass die Applikation oder eigentliche Business-Logik auch ohne GUI oder Datenbank funktioniert.
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
