@@ -65,6 +65,12 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
     <a href="/assets/img/events/004_group1.jpg"><img src="/assets/img/events/thumbs/004_group1.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/004_group2.jpg"><img src="/assets/img/events/thumbs/004_group2.jpg" width="144" height="96"></a>
     <a href="/assets/img/events/004_hacking.jpg"><img src="/assets/img/events/thumbs/004_hacking.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/008_patrick.jpg"><img src="/assets/img/events/thumbs/008_patrick.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/008_slide_01.jpg"><img src="/assets/img/events/thumbs/008_slide_01.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/008_slide_02.jpg"><img src="/assets/img/events/thumbs/008_slide_02.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/008_crowd_01.jpg"><img src="/assets/img/events/thumbs/008_crowd_01.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/008_crowd_02.jpg"><img src="/assets/img/events/thumbs/008_crowd_02.jpg" width="144" height="96"></a>
+    <a href="/assets/img/events/008_crowd_03.jpg"><img src="/assets/img/events/thumbs/008_crowd_03.jpg" width="144" height="96"></a>
 </div>
 <br />
 
