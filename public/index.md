@@ -17,21 +17,20 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 	Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wikipedia.org/wiki/Testgetriebene_Entwicklung">TDD</a>-Crashkurs zu geben, wenn du willst. ;)
 </div>
 
-- Datum: 14. März 2017
+- Datum: 11. April 2017
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) mit Patrick
+- Thema: <i>noch nicht festgelegt</i>
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
-- Hashtag: [#devnightrises](https://twitter.com/search?q=%23devnightrises&src=hash)
+- Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Die /dev/night geht in die achte Runde. Sie findet am 14. März um 19:15 Uhr statt.
+Die /dev/night geht in die neunte Runde. Sie findet am 11. April um 19:15 Uhr statt.
 
-Die [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) erlaubt es uns Applikationen zu entwerfen, für die man einfach automatische regression-tests fahren kann.
-Dies liegt an dem grundsätzlichen Aufbau der Applikation welche auf Adapter setzt, sodass die Applikation oder eigentliche Business-Logik auch ohne GUI oder Datenbank funktioniert.
+<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
