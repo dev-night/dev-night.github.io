@@ -88,13 +88,13 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
         </tr>
     </thead>
     <tbody>
-        <!-- <tr>
+        <tr>
             <td>#008</td>
             <td>14.03.2017</td>
             <td>hexagonal architecture</td>
             <td>Patrick</td>
-            <td><a class="repo_link" href="https://github.com/dev-night/????"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+            <td><a class="repo_link" href="https://github.com/dev-night/2017-03-14_hexagonal-architecture"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#007</td>
             <td>14.02.2017</td>
