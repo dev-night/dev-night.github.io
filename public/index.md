@@ -20,7 +20,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Datum: 11. April 2017
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: <i>noch nicht festgelegt</i>
+- Thema: offene Session / Summer Jam
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -30,7 +30,9 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 
 Die /dev/night geht in die neunte Runde. Sie findet am 11. April um 19:15 Uhr statt.
 
-<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
+Wir wollen eine offene Session veranstalten. Es sind (noch) keine Vorträge geplant. Gerne könnt ihr euren Vortrag/Thema/Frage mitbringen. :)
+
+Wir wollen mit euch auch eine Feedback-Runde machen und uns überlegen wie wir die Themenfindung für die /dev/nights gestalten können. Da offenbar die Meetup-Diskussionen nicht wirklich genutzt werden.
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
@@ -88,6 +90,13 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
         </tr>
     </thead>
     <tbody>
+        <!--<tr>
+            <td>#009</td>
+            <td>11.04.2017</td>
+            <td>Summer Jam</td>
+            <td></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2017-04-11_summer-jam"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>-->
         <tr>
             <td>#008</td>
             <td>14.03.2017</td>
