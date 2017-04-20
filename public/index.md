@@ -33,6 +33,7 @@ Die /dev/night geht in die zehnte Runde. Sie findet am 16. Mai um 17:30 Uhr stat
 Anlässlich der WebWeek haben wir ein Special vorbereitet. Es wird 6 Vorträge über unterschiedliche Themen geben.
 
 Hier das vorläufige Programm: 
+
 - 17:30 Ankunft 
 - 18:00 Talk 1 
 - 18:30 Talk 2 
