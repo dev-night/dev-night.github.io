@@ -17,10 +17,10 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 	Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wikipedia.org/wiki/Testgetriebene_Entwicklung">TDD</a>-Crashkurs zu geben, wenn du willst. ;)
 </div>
 
-- Datum: 11. April 2017
+- Datum: 16. Mai 2017
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
-- Uhrzeit: 19:15
-- Thema: offene Session / Summer Jam
+- Uhrzeit: 17:30
+- Thema: 6 Talks, 6 underschiedliche Themen. (WebWeek Special)
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -28,13 +28,21 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Die /dev/night geht in die neunte Runde. Sie findet am 11. April um 19:15 Uhr statt.
+Die /dev/night geht in die zehnte Runde. Sie findet am 16. Mai um 17:30 Uhr statt.
 
-Wir wollen eine offene Session veranstalten. Es sind (noch) keine Vorträge geplant. Gerne könnt ihr euren Vortrag/Thema/Frage mitbringen. :)
+Anlässlich der WebWeek haben wir ein Special vorbereitet. Es wird 6 Vorträge über unterschiedliche Themen geben.
 
-Wir wollen mit euch auch eine Feedback-Runde machen und uns überlegen wie wir die Themenfindung für die /dev/nights gestalten können. Da offenbar die Meetup-Diskussionen nicht wirklich genutzt werden.
+Hier das vorläufige Programm: 
+- 17:30 Ankunft 
+- 18:00 Talk 1 
+- 18:30 Talk 2 
+- 19:00 Talk 3 
+- 19:30 Essen 
+- 20:30 Talk 4 
+- 21:00 Talk 5 
+- 21:30 Talk 6
 
-Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
+<!--Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.-->
 
 
 ## Ein paar Bilder
@@ -90,13 +98,13 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
         </tr>
     </thead>
     <tbody>
-        <!--<tr>
+        <tr>
             <td>#009</td>
             <td>11.04.2017</td>
             <td>Summer Jam</td>
             <td></td>
             <td><a class="repo_link" href="https://github.com/dev-night/2017-04-11_summer-jam"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr>-->
+        </tr>
         <tr>
             <td>#008</td>
             <td>14.03.2017</td>
