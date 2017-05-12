@@ -32,16 +32,16 @@ Die /dev/night geht in die zehnte Runde. Sie findet am 16. Mai um 17:30 Uhr stat
 
 Anlässlich der WebWeek haben wir ein Special vorbereitet. Es wird 6 Vorträge über unterschiedliche Themen geben.
 
-Hier das vorläufige Programm: 
+Hier das Programm:
 
-- 17:30 Ankunft 
-- 18:00 Talk 1 
-- 18:30 Talk 2 
-- 19:00 Talk 3 
-- 19:30 Essen 
-- 20:30 Talk 4 
-- 21:00 Talk 5 
-- 21:30 Talk 6
+- 17:30 / Ankunft
+- 18:00 / "Unittests - good test bad test” - Robert Gross & Martin Jainta (en)
+- 18:30 / "TDD vs. Velocity: Testing for start-ups and other organizations with fast innovation cycles" - Markus Tacker (en)
+- 19:00 / "Gitlab Workflow - Working with it and how to deploy stuff." - Richard Stromer (en)
+- 19:30 / Essen
+- 20:30 / "Service oriented architecture" - Sujay Kher (en)
+- 21:00 / "Machine Learning mit Azure - Ein Einstieg" - Daniel Meier (de)
+- 21:30 / "Introduction to webpack" - Fabian Ihl (en)
 
 <!--Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.-->
 
