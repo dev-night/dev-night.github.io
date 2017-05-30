@@ -17,10 +17,10 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 	Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wikipedia.org/wiki/Testgetriebene_Entwicklung">TDD</a>-Crashkurs zu geben, wenn du willst. ;)
 </div>
 
-- Datum: 16. Mai 2017
+- Datum: 13. Juni 2017
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
-- Uhrzeit: 17:30
-- Thema: 6 Talks, 6 underschiedliche Themen. (WebWeek Special)
+- Uhrzeit: 19:15
+- Thema: <i>noch nicht festgelegt</i>
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -28,22 +28,11 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Die /dev/night geht in die zehnte Runde. Sie findet am 16. Mai um 17:30 Uhr statt.
+Die /dev/night geht in die elfte Runde. Sie findet am 13. Juni um 19:15 Uhr statt.
 
-Anlässlich der WebWeek haben wir ein Special vorbereitet. Es wird 6 Vorträge über unterschiedliche Themen geben.
+<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
 
-Hier das Programm:
-
-- 17:30 / Ankunft
-- 18:00 / "Unittests - good test bad test” - Robert Gross & Martin Jainta (en)
-- 18:30 / "TDD vs. Velocity: Testing for start-ups and other organizations with fast innovation cycles" - Markus Tacker (en)
-- 19:00 / "Gitlab Workflow - Working with it and how to deploy stuff." - Richard Stromer (en)
-- 19:30 / Essen
-- 20:30 / "Service oriented architecture" - Sujay Kher (en)
-- 21:00 / "Machine Learning mit Azure - Ein Einstieg" - Daniel Meier (de)
-- 21:30 / "Introduction to webpack" - Fabian Ihl (en)
-
-<!--Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.-->
+Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
 
 ## Ein paar Bilder
@@ -99,6 +88,13 @@ Hier das Programm:
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>#010</td>
+            <td>16.05.2017</td>
+            <td>WebWeek Special</td>
+            <td></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2017-05-16_webweek-special"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#009</td>
             <td>11.04.2017</td>
