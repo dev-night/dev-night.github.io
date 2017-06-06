@@ -20,7 +20,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 - Datum: 13. Juni 2017
 - Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Uhrzeit: 19:15
-- Thema: <i>noch nicht festgelegt</i>
+- Thema: [Introduction into elm](https://github.com/dev-night/talks/issues/2)
 - Für Getränke & Pizza ist gesorgt
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -30,7 +30,7 @@ Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Mee
 
 Die /dev/night geht in die elfte Runde. Sie findet am 13. Juni um 19:15 Uhr statt.
 
-<i>Momentan sind wir in der Planungsphase. Schau doch einfach später nochmals vorbei. :)</i>
+<a href="https://twitter.com/stesie23">@stesie23</a> wird uns ein bisschen in die Welt der funktionalen Programmierung mitnehmen und uns [elm](http://elm-lang.org/) zeigen. Eine Sprache die in JavaScript kompiliert und für die Frontend-Entwicklung eingesetzt werden kann. Mit ihr können Fehler während des Betriebs vermieden wegen durch den wirklich guten Compiler und der "type inference".
 
 Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
 
@@ -88,6 +88,13 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
         </tr>
     </thead>
     <tbody>
+        <!--<tr>
+            <td>#011</td>
+            <td>13.06.2017</td>
+            <td>Introduction into elm</td>
+            <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/011_introduction-into-elm"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>-->
         <tr>
             <td>#010</td>
             <td>16.05.2017</td>
