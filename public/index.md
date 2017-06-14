@@ -2,40 +2,47 @@
     <img id="logo" src="/assets/img/dev_night-logo.png" class="shadowfilter">
 </div>
 
-# /dev/night - Meetup für Entwickler
+# /dev/night - A meetup for developers
 
-## Warum?
+## Why?
 
-Landkreis Ansbach: Heimat vieler Entwickler und ab sofort Heimat eines neuen Meetup Formates! Jeden zweiten Dienstag im Monat findet um 19:15 Uhr die /dev/night in den Räumen der Tradebyte Software GmbH in Ansbach statt. Hier haben Entwickler die Möglichkeit, ihr Wissen und ihre Erfahrungen zu teilen sowie „hands on“ Dinge gemeinsam auszuprobieren.
+Ansbach county: Home to many developers and now also home of a new meetup format. Every month on the second tuesday
+we come together at the Tradebyte Software GmbH in Ansbach to meet for the /dev/night! Our meetup focuses on sharing
+knowledge and experiences. We gather also to learn new thing with hands on practices and challenges.
 
-## Nächstes Treffen
+## Next Meetup
 
 <div class="alert alert-info">
-	Falls du schon weißt worum es geht bitten wir dich daran zu denken, einen Laptop mit eingerichteter <a href="https://github.com/dev-night/tdd-starting-point"><b>Entwicklungs-</b> und <b>Testumgebung</b></a> deiner Wahl mitzubringen. Falls du noch nicht so recht weißt was es damit auf sich hat, komm einfach mit einem Laptop vorbei.
-	<br />
-	<br />
-	Wir sind auch schon ab 18:45 vor Ort um dir einen kleinen <a href="https://de.wikipedia.org/wiki/Testgetriebene_Entwicklung">TDD</a>-Crashkurs zu geben, wenn du willst. ;)
+    If you've been to one of our events already you should bring a laptop with a fully set up <a href="https://github.com/dev-night/tdd-starting-point"><b>development</b> and <b>testing</b></a>
+    environment of your choice.
+    If sounds all new to you just bring you laptop.
+    <br />
+    <br />
+    We'll be there from 18:45 onwards to give you a little introduction into
+    <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Datum: 13. Juni 2017
-- Ort: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
-- Uhrzeit: 19:15
-- Thema: [Introduction into elm](https://github.com/dev-night/talks/issues/2)
-- Für Getränke & Pizza ist gesorgt
+- Date: 11th July 2017
+- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
+- Time: 19:15
+- Topic:<i>[TBA](https://en.wikipedia.org/wiki/To_be_announced)</i>
+- We've free pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
-- Kontakt: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
+- Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Die /dev/night geht in die elfte Runde. Sie findet am 13. Juni um 19:15 Uhr statt.
+Our /dev/night #012 will take place on the 11th of july at 19:15.
 
-<a href="https://twitter.com/stesie23">@stesie23</a> wird uns ein bisschen in die Welt der funktionalen Programmierung mitnehmen und uns [elm](http://elm-lang.org/) zeigen. Eine Sprache die in JavaScript kompiliert und für die Frontend-Entwicklung eingesetzt werden kann. Mit ihr können Fehler während des Betriebs vermieden wegen durch den wirklich guten Compiler und der "type inference".
+<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>
 
-Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wissen in [Pairs](http://www.extremeprogramming.org/rules/pair.html) am Rechner anhand einer Challenge vertieft und verfestigt.
+After an introduction to the topic we'll practice what we've learn in a hands on session with
+[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)
 
 
-## Ein paar Bilder
+## Some pictures
 
 <!-- command: convert img/events/stesie.jpg -resize 300 img/events/thumbs/stesie.jpg -->
 <div class="fotorama" data-nav="thumbs">
@@ -75,26 +82,26 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
 <br />
 
 
-## Vergangene Treffen
+## Given talks
 
 <table class="events">
     <thead>
         <tr>
-            <th>Nr.</th>
-            <th>Datum</th>
-            <th>Thema</th>
-            <th>Redner</th>
-            <th>Repo</th>
+            <th>No.</th>
+            <th>Date</th>
+            <th>Topic</th>
+            <th>Speaker</th>
+            <th>Slides</th>
         </tr>
     </thead>
     <tbody>
-        <!--<tr>
+        <tr>
             <td>#011</td>
             <td>13.06.2017</td>
-            <td>Introduction into elm</td>
+            <td>Introduction to elm</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/011_introduction-into-elm"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr>-->
+        </tr>
         <tr>
             <td>#010</td>
             <td>16.05.2017</td>
@@ -168,7 +175,7 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
     </tbody>
 </table>
 
-## Was über uns geschrieben wird
+## Some articles about us
 
 - 05.12.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["Die /dev/night im November: Challenging TDD"](https://www.tradebyte.com/die-devnight-im-november-challenging-tdd/)
 - 22.11.2016 / [@niklas_heer](https://twitter.com/niklas_heer) - ["/dev/night - baby steps to awesomeness"](https://blog.nheer.io/2016/11/22/dev/night---baby-steps-to-awesomeness/)
@@ -181,14 +188,17 @@ Nach einer kurzen Einführung in das Thema wird anschließend das gelernte Wisse
 - 09.09.2016 / [@freifunkansbach](https://twitter.com/freifunkansbach) - ["/dev/night – Erstes Ansbacher Entwickler Meetup"](https://freifunk-ansbach.de/devnight-erstes-ansbacher-entwickler-meetup/)
 - 29.07.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["/dev/night – Erstes Meetup für Entwickler"](https://www.tradebyte.com/devnight-erstes-meetup-fuer-entwickler/)
 
-## Du möchtest selbst gerne eine /dev/night gestalten?
+## You want to give a talk on the /dev/night?
 
-Sehr gerne, denn die /dev/night lebt gerade von ihren Teilnehmern. Falls du schon ein Thema hast kannst du dich gerne per [Mail](mailto:dev-night@tradebyte.com) oder [Twitter](https://twitter.com/dev_night) an uns wenden. Falls du einfach Lust hast eine /dev/night zu gestalten, aber noch kein Thema, dann komm einfach nach der nächsten /dev/night auf uns ([Niklas](https://twitter.com/niklas_heer) oder [Stefan](https://twitter.com/stesie23)) zu und wir werden schon ein Thema finden. ;)
+Awesome! Just visit our [__talks submission page__](https://github.com/dev-night/talks/issues).<br>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>
 
-## Fehler auf der Seite gefunden?
+## You spotted an error on this page?
 
-Du kannst uns entweder über [Mail](mailto:niklas@dev-night.io) oder [Twitter](https://twitter.com/dev_night) Bescheid geben oder einfach selbst einen [Pull-Request](https://github.com/dev-night/dev-night.github.io/pulls) machen. Danke! ;)
-
+Just let us know via [mail](mailto:niklas@dev-night.io) or [twitter](https://twitter.com/dev_night).
+If you know what you're doing we'll also appreciate a [pull request](https://github.com/dev-night/dev-night.github.io/pulls). ;)
+<br>
+Thanks!
 
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=4bc7r9mrsul96aol5f3bp5onig";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
