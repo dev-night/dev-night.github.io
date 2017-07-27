@@ -209,7 +209,7 @@ After an introduction to the topic we'll practice what we've learn in a hands on
 ## You want to give a talk on the /dev/night?
 
 Awesome! Just visit our [__talks submission page__](https://github.com/dev-night/talks/issues).<br>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
 ## You spotted an error on this page?
 
