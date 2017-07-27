@@ -22,10 +22,10 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
     <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Date: 11th July 2017
-- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
+- Date: 08th August 2017
+- Place: Hetzner Online GmbH (Industriestraße 25, 91710 Gunzenhausen)
 - Time: 19:15
-- Topic: Don't rest on REST
+- Topic: Introduction to React
 - We've free pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -33,16 +33,11 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Our /dev/night #012 will take place on the 11th of july at 19:15.
+Our /dev/night #013 will take place on the 08th of August at 19:15.
 
-__We will introduce you to the [whole REST topic](https://github.com/dev-night/talks/issues/10) and you will be able to make a simple REST-API with Swagger after this event.__
+*Florian* will introduce you to the [__React__](https://github.com/dev-night/talks/issues/3) framework and you will be able to painlessly develop interactive UIs for yourself.
 
-
-__1. Talk:__ *Introduction to __REST__*<br>
-[Niklas](https://github.com/niklas-heer) will tell us about the basics about REST and some best practices to prepare you for the talk about Swagger. 
-
-__2. Talk:__ *Introduction to [__Swagger__](http://swagger.io/)*<br>
-[Fabian](https://github.com/Akuryou) will show you how the tool works and what you can do with it.
+This will also be a special event because it will take place at the __Hetzner office in Gunzenhausen__.
 
 <!--<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>-->
@@ -104,13 +99,20 @@ After an introduction to the topic we'll practice what we've learn in a hands on
         </tr>
     </thead>
     <tbody>
-        <!--<tr>
+        <!-- <tr>
+            <td>#013</td>
+            <td>08.08.2017</td>
+            <td>Introduction to React</td>
+            <td>Florian Drechsler</td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/013_introduction-to-react"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
             <td>#012</td>
             <td>11.07.2017</td>
             <td>Don't rest on REST (Swagger)</td>
             <td><a href="https://github.com/Akuryou">Fabian</a> and <a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/012_dont-rest-on-rest"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr>-->
+        </tr>
         <tr>
             <td>#011</td>
             <td>13.06.2017</td>
