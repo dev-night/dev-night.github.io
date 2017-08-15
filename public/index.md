@@ -103,13 +103,13 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
-        <!-- <tr>
+         <tr>
             <td>#013</td>
             <td>08.08.2017</td>
             <td>Introduction to React</td>
             <td>Florian Drechsler</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/013_introduction-to-react"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#012</td>
             <td>11.07.2017</td>
