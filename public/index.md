@@ -45,11 +45,6 @@ We will also get our hands dirty with docker - so don't forget to bring your lap
 <!-- After an introduction to the topic we'll practice what we've learn in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :) -->
 
-## You want to give a talk on the /dev/night?
-
-Awesome! Just visit our [__talks submission page__](https://github.com/dev-night/talks/issues).<br>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
-
 ## Some pictures
 
 <!-- command: convert img/events/stesie.jpg -resize 300 img/events/thumbs/stesie.jpg -->
@@ -89,6 +84,10 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
 </div>
 <br />
 
+## You want to give a talk on the /dev/night?
+
+Awesome! Just visit our [__talks submission page__](https://github.com/dev-night/talks/issues).<br>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
 ## Given talks
 
