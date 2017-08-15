@@ -42,8 +42,8 @@ We will also get our hands dirty with docker - so don't forget to bring your lap
 <!--<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>-->
 
-After an introduction to the topic we'll practice what we've learn in a hands on session with
-[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)
+<!-- After an introduction to the topic we'll practice what we've learn in a hands on session with
+[pairs](http://www.extremeprogramming.org/rules/pair.html)! :) -->
 
 ## You want to give a talk on the /dev/night?
 
