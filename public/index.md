@@ -45,6 +45,10 @@ This will also be a special event because it will take place at the __Hetzner of
 After an introduction to the topic we'll practice what we've learn in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)
 
+## You want to give a talk on the /dev/night?
+
+Awesome! Just visit our [__talks submission page__](https://github.com/dev-night/talks/issues).<br>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
 ## Some pictures
 
@@ -205,11 +209,6 @@ After an introduction to the topic we'll practice what we've learn in a hands on
 - 10.09.2016 / [@stesie23](https://twitter.com/stesie23) - ["Starting a local developer meetup"](http://stesie.github.io/2016/08/first-dev-night)
 - 09.09.2016 / [@freifunkansbach](https://twitter.com/freifunkansbach) - ["/dev/night – Erstes Ansbacher Entwickler Meetup"](https://freifunk-ansbach.de/devnight-erstes-ansbacher-entwickler-meetup/)
 - 29.07.2016 / [@tradebyte](https://twitter.com/tradebyte) - ["/dev/night – Erstes Meetup für Entwickler"](https://www.tradebyte.com/devnight-erstes-meetup-fuer-entwickler/)
-
-## You want to give a talk on the /dev/night?
-
-Awesome! Just visit our [__talks submission page__](https://github.com/dev-night/talks/issues).<br>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
 ## You spotted an error on this page?
 
