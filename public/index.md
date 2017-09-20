@@ -22,10 +22,10 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
     <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Date: 12th September 2017
+- Date: 10th October 2017
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: Riding the whale (Docker)
+- Topic: Introduction to Angular
 - We've free pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -33,11 +33,11 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Our /dev/night #014 will take place on the 12th of September at 19:15.
+Our /dev/night #015 will take place on the 10th of October at 19:15.
 
-[Jochen](https://github.com/jochenchrist) will introduce you to [__Docker__](https://github.com/dev-night/talks/issues/13) and you will learn how to use it and deploy software with it.
+[Maximilian](https://github.com/ElectricMaxxx) will introduce you to [__Angular__](https://github.com/dev-night/talks/issues/4) and you will learn how to use it and how you can craft frontend applications with it.
 
-We will also get our hands dirty with docker - so don't forget to bring your laptops. ;)
+We will also get our hands dirty with Angular - so don't forget to bring your laptops. ;)
 
 <!--<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>-->
@@ -103,13 +103,20 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
     </thead>
     <tbody>
         <!-- <tr>
+            <td>#015</td>
+            <td>10.10.2017</td>
+            <td>Introduction to Angular</td>
+            <td><a href="https://github.com/ElectricMaxxx">Maximilian Berghoff</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/015_introduction-to-angular"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
             <td>#014</td>
             <td>12.09.2017</td>
             <td>Riding the whale (Docker)</td>
             <td><a href="https://github.com/jochenchrist">Jochen Christ</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/014_riding-the-whale"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
-         <tr>
+        </tr>
+        <tr>
             <td>#013</td>
             <td>08.08.2017</td>
             <td>Introduction to React</td>
