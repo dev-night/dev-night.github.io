@@ -35,7 +35,7 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 
 Our /dev/night #016 will take place on the 14th of November at 19:15.
 
-[Martin](https://github.com/mjainta) will guide you through a training session using Test-driven development (TDD) and pair-programming.
+[Martin](https://github.com/mjainta) will guide you through a training session using Test-driven development (<a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a>) and pair-programming.
 
 After a short introduction in TDD and pair-programming we will work on one or two simple tasks, concentrating on "how to develop". After that we will discuss our outcomes of this session.
 
