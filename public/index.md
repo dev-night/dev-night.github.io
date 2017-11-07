@@ -22,22 +22,24 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
     <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Date: 10th October 2017
+- Date: 14th November 2017
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: Introduction to Angular
-- We've free pizza and [Mate](http://www.clubmate.de/)!
+- Topic: Workout for your TDD
+- We've free meals and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Our /dev/night #015 will take place on the 10th of October at 19:15.
+Our /dev/night #016 will take place on the 14th of November at 19:15.
 
-[Maximilian](https://github.com/ElectricMaxxx) will introduce you to [__Angular__](https://github.com/dev-night/talks/issues/4) and you will learn how to use it and how you can craft frontend applications with it.
+[Martin](https://github.com/mjainta) will guide you through a training session using Test-driven development (TDD) and pair-programming.
 
-We will also get our hands dirty with Angular - so don't forget to bring your laptops. ;)
+After a short introduction in TDD and pair-programming we will work on one or two simple tasks, concentrating on "how to develop". After that we will discuss our outcomes of this session.
+
+You don´t need much experience in developing and you may choose every language you desire. But since we want to develop something, please bring your laptops with you :)
 
 <!--<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>-->
@@ -103,12 +105,19 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
     </thead>
     <tbody>
         <!-- <tr>
+            <td>#016</td>
+            <td>14.11.2017</td>
+            <td>Workout for your TDD</td>
+            <td><a href="https://github.com/mjainta">Martin Jainta</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/016_workout-for-your-tdd"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
             <td>#015</td>
             <td>10.10.2017</td>
             <td>Introduction to Angular</td>
             <td><a href="https://github.com/ElectricMaxxx">Maximilian Berghoff</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/015_introduction-to-angular"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#014</td>
             <td>12.09.2017</td>
