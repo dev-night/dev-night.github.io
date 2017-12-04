@@ -37,7 +37,7 @@ Our /dev/night #017 will take place on the 12th of December at 19:15.
 
 Passwords are insecure and inconvenient for many users. Every day passwords get hacked and databases containing (hashed) passwords are leaked.
 Studies show that users loose their interest if a registration with password is mandatory. Which results in a lower conversion rate. <br/>
-[Jochen](https://github.com/jochenchrist) will will talk about alternatives that rely on biometrics, possession or One-Time Tokens.
+[Jochen](https://github.com/jochenchrist) will talk about alternatives that rely on biometrics, possession or One-Time Tokens.
 He will also highlight the advantages and disadvantages of each method.
 
 <!--<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
