@@ -22,10 +22,10 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
     <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Date: 14th November 2017
+- Date: 12th December 2017
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: Workout for your TDD
+- Topic: No password no cry
 - We've free meals and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -33,13 +33,12 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Our /dev/night #016 will take place on the 14th of November at 19:15.
+Our /dev/night #017 will take place on the 12th of December at 19:15.
 
-[Martin](https://github.com/mjainta) will guide you through a training session using Test-driven development (<a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a>) and pair-programming.
-
-After a short introduction in TDD and pair-programming we will work on one or two simple tasks, concentrating on "how to develop". After that we will discuss our outcomes of this session.
-
-You don´t need much experience in developing and you may choose every language you desire. But since we want to develop something, please bring your laptops with you :)
+Passwords are insecure and inconvenient for many users. Every day passwords get hacked and databases containing (hashed) passwords are leaked.
+Studies show that users loose their interest if a registration with password is mandatory. Which results in a lower conversion rate. <br/>
+[Jochen](https://github.com/jochenchrist) will will talk about alternatives that rely on biometrics, possession or One-Time Tokens.
+He will also highlight the advantages and disadvantages of each method.
 
 <!--<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>-->
@@ -105,12 +104,19 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
     </thead>
     <tbody>
         <!-- <tr>
+            <td>#017</td>
+            <td>12.12.2017</td>
+            <td>No password no cry</td>
+            <td><a href="https://github.com/jochenchrist">Jochen Christ</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/017_no-password-no-cry"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
             <td>#016</td>
             <td>14.11.2017</td>
             <td>Workout for your TDD</td>
             <td><a href="https://github.com/mjainta">Martin Jainta</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/016_workout-for-your-tdd"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#015</td>
             <td>10.10.2017</td>
