@@ -22,10 +22,10 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
     <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Date: 12th December 2017
+- Date: 9th January 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: No password no cry
+- Topic: _TBA_
 - We've free meals and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -33,12 +33,7 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Our /dev/night #017 will take place on the 12th of December at 19:15.
-
-Passwords are insecure and inconvenient for many users. Every day passwords get hacked and databases containing (hashed) passwords are leaked.
-Studies show that users loose their interest if a registration with password is mandatory. Which results in a lower conversion rate. <br/>
-[Jochen](https://github.com/jochenchrist) will talk about alternatives that rely on biometrics, possession or One-Time Tokens.
-He will also highlight the advantages and disadvantages of each method.
+Our /dev/night #018 will take place on the 9th of January at 19:15.
 
 <!--<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>-->
