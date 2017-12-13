@@ -103,13 +103,13 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
-        <!-- <tr>
+        <tr>
             <td>#017</td>
             <td>12.12.2017</td>
             <td>No password no cry</td>
             <td><a href="https://github.com/jochenchrist">Jochen Christ</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/017_no-password-no-cry"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#016</td>
             <td>14.11.2017</td>
