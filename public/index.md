@@ -25,7 +25,7 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Date: 9th January 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: _TBA_
+- Topic: Global Game Jam - Warmup
 - We've free meals and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -34,6 +34,8 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
 Our /dev/night #018 will take place on the 9th of January at 19:15.
+
+[Fabian](https://github.com/akuryou) will give a session about game development. The perfect warmup for the upcoming [Global Game Jam in Ansbach](https://globalgamejam.org/2018/jam-sites/ggj-ansbach).
 
 <!--<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>-->
@@ -98,6 +100,13 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <!--<tr>
+            <td>#018</td>
+            <td>09.01.2018</td>
+            <td>Global Game Jam - Warmup</td>
+            <td><a href="https://github.com/akuryou">Fabian Ihl</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/018_global-game-jam-warmup"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>-->
         <tr>
             <td>#017</td>
             <td>12.12.2017</td>
