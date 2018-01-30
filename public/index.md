@@ -22,10 +22,10 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
     <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Date: 9th January 2018
+- Date: 13th February 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: Global Game Jam - Warmup
+- Topic: <i>[TBA](https://en.wikipedia.org/wiki/To_be_announced)</i>
 - We've free meals and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -33,15 +33,13 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Our /dev/night #018 will take place on the 9th of January at 19:15.
+Our /dev/night #019 will take place on the 13th of February at 19:15.
 
-[Fabian](https://github.com/akuryou) will give a session about game development. The perfect warmup for the upcoming [Global Game Jam in Ansbach](https://globalgamejam.org/2018/jam-sites/ggj-ansbach).
-
-<!--<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>-->
+<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/assets/img/workflow.png"></a>
 
 <!-- After an introduction to the topic we'll practice what we've learn in a hands on session with
-[pairs](http://www.extremeprogramming.org/rules/pair.html)! :) -->
+[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
 
 ## Some pictures
 
@@ -100,13 +98,20 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
-        <!--<tr>
+        <!-- <tr>
+            <td>#019</td>
+            <td>13.02.2018</td>
+            <td>???</td>
+            <td><a href="">???</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/018_???"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
             <td>#018</td>
             <td>09.01.2018</td>
             <td>Global Game Jam - Warmup</td>
             <td><a href="https://github.com/akuryou">Fabian Ihl</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/018_global-game-jam-warmup"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr>-->
+        </tr>
         <tr>
             <td>#017</td>
             <td>12.12.2017</td>
