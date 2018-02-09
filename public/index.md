@@ -25,7 +25,7 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Date: 13th February 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: <i>[TBA](https://en.wikipedia.org/wiki/To_be_announced)</i>
+- Topic: Twisted [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - We've free meals and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -35,8 +35,10 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 
 Our /dev/night #019 will take place on the 13th of February at 19:15.
 
-<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
+We will do a Kata implementing the Game of Life, but with a little twist. ;)
+
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
 
 <!-- After an introduction to the topic we'll practice what we've learn in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
@@ -101,9 +103,9 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         <!-- <tr>
             <td>#019</td>
             <td>13.02.2018</td>
-            <td>???</td>
-            <td><a href="">???</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/018_???"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td>Twisted Game of Life</td>
+            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/019_twisted-game-of-life"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr> -->
         <tr>
             <td>#018</td>
