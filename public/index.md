@@ -36,6 +36,7 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 Our /dev/night #020 will take place on the 6th of March at 19:00.
 
 Agenda:
+
 - 18:30 / Arrival
 - 19:00 / Queuing - by Stanislau Saprankou
 - 19:30 / Who locked my column? A look into MySQL transaction handling - by Andreas Rodriguez Rivera
