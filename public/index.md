@@ -44,6 +44,8 @@ Agenda:
 - 21:00 / slot 3 - Open, but you want to take part? Contact us :)
 - 21:30 / slot 4 - Open, but you want to take part? Contact us :)
 
+[**We will also livestream the event!**](https://stream.dev-night.io)
+
 <!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
 
