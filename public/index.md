@@ -40,8 +40,8 @@ Agenda:
 - 18:30 / Arrival
 - 19:00 / Queuing - by Stanislau Saprankou
 - 19:30 / Who locked my column? A look into MySQL transaction handling - by Andreas Rodriguez Rivera
-- 20:00 / Essen
-- 21:00 / slot 3 - Open, but you want to take part? Contact us :)
+- 20:00 / Food break
+- 21:00 / Lisp flavoured monads - by Emmanuel-Jelome Fonseca
 - 21:30 / slot 4 - Open, but you want to take part? Contact us :)
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
