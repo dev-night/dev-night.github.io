@@ -42,7 +42,7 @@ Agenda:
 - 19:30 / Who locked my column? A look into MySQL transaction handling - by Andreas Rodriguez Rivera
 - 20:00 / Food break
 - 21:00 / De-Lisptifying Monads - by Emmanuel-Jelome Fonseca
-- 21:30 / Pirates favourite language - by Niklas Heer
+- 21:30 / Pirates favorite language - by Niklas Heer
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
