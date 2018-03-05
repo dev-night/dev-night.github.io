@@ -41,8 +41,8 @@ Agenda:
 - 19:00 / Queuing - by Stanislau Saprankou
 - 19:30 / Who locked my column? A look into MySQL transaction handling - by Andreas Rodriguez Rivera
 - 20:00 / Food break
-- 21:00 / Lisp flavoured monads - by Emmanuel-Jelome Fonseca
-- 21:30 / slot 4 - Open, but you want to take part? Contact us :)
+- 21:00 / De-Lisptifying Monads - by Emmanuel-Jelome Fonseca
+- 21:30 / Pirates favourite language - by Niklas Heer
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
