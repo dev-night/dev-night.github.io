@@ -24,7 +24,7 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 
 - Date: 6th March 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
-- Time: 19:00
+- Time: 18:30
 - Topic: /dev/night - quartet - #WueWW special
 - We've free meals and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
@@ -33,7 +33,7 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Our /dev/night #020 will take place on the 6th of March at 19:00.
+Our /dev/night #020 will take place on the 6th of March at 18:30.
 
 Agenda:
 
