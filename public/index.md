@@ -109,7 +109,7 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
             <td>10.04.2018</td>
             <td>/dev/night - Serverless durch die Nacht</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/020_wueww_special"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/021_serverless"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr> -->
         <tr>
             <td>#020</td>
