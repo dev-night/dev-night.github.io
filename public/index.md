@@ -22,27 +22,22 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
     <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Date: 6th March 2018
+- Date: 10th April 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
-- Time: 18:30
-- Topic: /dev/night - quartet - #WueWW special
-- We've free meals and [Mate](http://www.clubmate.de/)!
+- Time: 19:15
+- Topic: /dev/night - Serverless durch die Nacht
+- We've pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Our /dev/night #020 will take place on the 6th of March at 18:30.
+This talk will be in German.
 
-Agenda:
+What's serverless? Apart from being just another buzzword? Stefan will take us on a journey into the serverless world. He'll focus on serverless services provided by AWS and give a brief overview of the services involved like Lambda, API Gateway, DynamoDB, S3 and Cognito. Also we'll look at the "serverless framework" (serverless.com) which is a CLI tool to manage serverless services; and last but not least: how does all that influence the overall architecture.
 
-- 18:30 / Arrival
-- 19:00 / Queuing - by Stanislau Saprankou
-- 19:30 / Who locked my column? A look into MySQL transaction handling - by Andreas Rodriguez Rivera
-- 20:00 / Food break
-- 21:00 / De-Lisptifying Monads - by Emmanuel-Jelome Fonseca
-- 21:30 / Pirates favorite language - by Niklas Heer
+This time we'll also switch up catering so you can enjoy eating pizza. ;)
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
@@ -110,12 +105,19 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
     </thead>
     <tbody>
         <!-- <tr>
+            <td>#021</td>
+            <td>10.04.2018</td>
+            <td>/dev/night - Serverless durch die Nacht</td>
+            <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/020_wueww_special"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
             <td>#020</td>
             <td>06.03.2018</td>
             <td>/dev/night - quartet - #WueWW special</td>
             <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/020_wueww_special"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#019</td>
             <td>13.02.2018</td>
