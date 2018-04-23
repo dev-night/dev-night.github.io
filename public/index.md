@@ -22,10 +22,10 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
     <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Date: 10th April 2018
+- Date: 8th May 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: /dev/night - Serverless durch die Nacht
+- Topic: /dev/night - Kubernetes Deep Dive
 - We've pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -33,11 +33,7 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-This talk will be in German.
-
-What's serverless? Apart from being just another buzzword? Stefan will take us on a journey into the serverless world. He'll focus on serverless services provided by AWS and give a brief overview of the services involved like Lambda, API Gateway, DynamoDB, S3 and Cognito. Also we'll look at the "serverless framework" (serverless.com) which is a CLI tool to manage serverless services; and last but not least: how does all that influence the overall architecture.
-
-This time we'll also switch up catering so you can enjoy eating pizza. ;)
+This time Hannes will take us on a deep dive into Kubernetes. He will answer the question what exactly is Kubenetes and what do you use it for? Also we'll have a look at the main concepts behind Kubernetes and how it fits into the DevOps world. Finally we'll look at how you can make a project "Kubernetes-ready".
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
@@ -104,13 +100,20 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
-        <!-- <tr>
+        <tr>
+            <!-- <td>#022</td>
+            <td>08.05.2018</td>
+            <td>/dev/night - Kubernetes Deep Dive</td>
+            <td><a href="https://github.com/hakoerber">Hannes Körber</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/022_kubernetes-deep-dive"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
             <td>#021</td>
             <td>10.04.2018</td>
             <td>/dev/night - Serverless durch die Nacht</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/021_serverless"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#020</td>
             <td>06.03.2018</td>
