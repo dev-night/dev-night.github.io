@@ -4,6 +4,19 @@
 
 # /dev/night - A meetup for developers
 
+###dev/night live @ DevOps-Camp 2018 | #dvoc2018
+
+<div id="twitch-embed"></div>
+
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+    <script type="text/javascript">
+      new Twitch.Embed("twitch-embed", {
+        width: 854,
+        height: 480,
+        channel: "tradebyte"
+      });
+    </script>
 ## Why?
 
 Ansbach county: Home to many developers and now also home of a new meetup format. Every month on the second tuesday
