@@ -4,7 +4,7 @@
 
 # /dev/night - A meetup for developers
 
-###dev/night live @ DevOps-Camp 2018 | #dvoc2018
+## /dev/night live @ DevOps-Camp 2018 | #dvoc2018
 
 <div id="twitch-embed"></div>
 
@@ -13,10 +13,12 @@
 <script type="text/javascript">
     new Twitch.Embed("twitch-embed", {
         width: 854,
-        height: 480,
+        height: 460,
         channel: "tradebyte"
     });
 </script>
+
+<br />
 
 ## Why?
 
