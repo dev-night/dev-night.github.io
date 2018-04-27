@@ -14,7 +14,11 @@
     new Twitch.Embed("twitch-embed", {
         width: 854,
         height: 460,
-        channel: "tradebyte"
+        channel: "tradebyte",
+        allowfullscreen,
+        autoplay;
+        chat: mobile
+        
     });
 </script>
 
