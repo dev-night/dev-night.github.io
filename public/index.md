@@ -15,9 +15,9 @@
         width: 854,
         height: 460,
         channel: "tradebyte",
-        allowfullscreen,
-        autoplay,
-        chat: mobile,        
+        allowfullscreen: true,
+        autoplay: true,
+        chat: "mobile",        
     });
 </script>
 
