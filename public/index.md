@@ -17,7 +17,7 @@
         channel: "tradebyte",
         allowfullscreen: true,
         autoplay: true,
-        chat: "mobile",        
+        layout: "video",        
     });
 </script>
 
