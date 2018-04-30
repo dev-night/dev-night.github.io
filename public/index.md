@@ -4,7 +4,7 @@
 
 # /dev/night - A meetup for developers
 
-## /dev/night live @ DevOps-Camp 2018 | #dvoc2018
+## #022 /dev/night - Kubernetes Deep Dive | 8th May, 07:15pm
 
 <div id="twitch-embed"></div>
 
