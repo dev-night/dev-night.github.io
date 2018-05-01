@@ -4,8 +4,6 @@
 
 # /dev/night - A meetup for developers
 
-## /dev/night live @ DevOps-Camp 2018 | #dvoc2018
-
 <div id="twitch-embed"></div>
 
 <script src="https://embed.twitch.tv/embed/v1.js"></script>
