@@ -50,7 +50,7 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-This time Hannes will take us on a deep dive into Kubernetes. He will answer the question what exactly is Kubenetes and what do you use it for? Also we'll have a look at the main concepts behind Kubernetes and how it fits into the DevOps world. Finally we'll look at how you can make a project "Kubernetes-ready".
+This time Hannes and Vladislav will take us on a deep dive into Kubernetes. He will answer the question what exactly is Kubenetes and what do you use it for? Also we'll have a look at the main concepts behind Kubernetes and how it fits into the DevOps world. Finally we'll look at how you can make a project "Kubernetes-ready".
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
@@ -121,7 +121,7 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
             <!-- <td>#022</td>
             <td>08.05.2018</td>
             <td>/dev/night - Kubernetes Deep Dive</td>
-            <td><a href="https://github.com/hakoerber">Hannes Körber</a></td>
+            <td><a href="https://github.com/hakoerber">Hannes Körber</a> and <a href="https://github.com/???">Vladislav Kuzntsov</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/022_kubernetes-deep-dive"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr> -->
         <tr>
