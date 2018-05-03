@@ -50,7 +50,7 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-This time Hannes and Vladislav will take us on a deep dive into Kubernetes. He will answer the question what exactly is Kubenetes and what do you use it for? Also we'll have a look at the main concepts behind Kubernetes and how it fits into the DevOps world. Finally we'll look at how you can make a project "Kubernetes-ready".
+This time Hannes and Vladislav will take us on a deep dive into Kubernetes. They will answer the question what exactly is Kubenetes and what do you use it for? Also we'll have a look at the main concepts behind Kubernetes and how it fits into the DevOps world. Finally we'll look at how you can make a project "Kubernetes-ready".
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
