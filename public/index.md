@@ -4,20 +4,8 @@
 
 # /dev/night - A meetup for developers
 
-<div id="twitch-embed"></div>
-
-<script src="https://embed.twitch.tv/embed/v1.js"></script>
-
-<script type="text/javascript">
-    new Twitch.Embed("twitch-embed", {
-        width: 854,
-        height: 460,
-        channel: "tradebyte",
-        allowfullscreen: true,
-        autoplay: true,
-        layout: "video",
-    });
-</script>
+<iframe id="ls_embed_1528373809" src="https://livestream.com/accounts/23776270/events/8239168/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="854" height="460" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+<script type="text/javascript" data-embed_id="ls_embed_1528373809" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
 
 <br />
 
