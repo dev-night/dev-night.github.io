@@ -7,7 +7,6 @@
 <iframe id="ls_embed_1528373809" src="https://livestream.com/accounts/23776270/events/8239168/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="854" height="460" frameborder="0" scrolling="no" allowfullscreen> </iframe>
 <script type="text/javascript" data-embed_id="ls_embed_1528373809" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
 
-
 <br />
 
 ## Why?
@@ -28,10 +27,10 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
     <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Date: 8th May 2018
+- Date: 12th June 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: /dev/night - Kubernetes Deep Dive
+- Topic: /dev/night - Drinking some Elixir
 - We've pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -39,7 +38,7 @@ knowledge and experiences. We gather also to learn new thing with hands on pract
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-This time Hannes and Vladislav will take us on a deep dive into Kubernetes. They will answer the question what exactly is Kubenetes and what do you use it for? Also we'll have a look at the main concepts behind Kubernetes and how it fits into the DevOps world. Finally we'll look at how you can make a project "Kubernetes-ready".
+This time Joseph will introduce us to [Elixir](https://elixir-lang.org/). Elixir is a functional, concurrent, general-purpose programming language which enables you to build distributed, fault-tolerant and maintainable applications by leveraging the Erlang VM (BEAM). We will also talk about the [Open Telecom Platform (OTP)](https://en.wikipedia.org/wiki/Open_Telecom_Platform) and how it can be used to build distributed application. After that we will build a simple app with Elixir!
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
@@ -106,13 +105,20 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <!-- <tr>
+            <td>#023</td>
+            <td>12.06.2018</td>
+            <td>/dev/night - Drinking some Elixir</td>
+            <td><a href="https://github.com/JTbyte">Joseph Varghese</td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/023_drinking-some-elixir"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
         <tr>
-            <!-- <td>#022</td>
+            <td>#022</td>
             <td>08.05.2018</td>
             <td>/dev/night - Kubernetes Deep Dive</td>
-            <td><a href="https://github.com/hakoerber">Hannes Körber</a> and <a href="https://github.com/???">Vladislav Kuzntsov</a></td>
+            <td><a href="https://github.com/hakoerber">Hannes Körber</a> and Vladislav Kuzntsov</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/022_kubernetes-deep-dive"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#021</td>
             <td>10.04.2018</td>
