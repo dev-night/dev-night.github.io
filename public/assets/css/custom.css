@@ -116,9 +116,6 @@
 
 
 /* Add styleing for the spoiler */
-.spoiler {
-	cursor: pointer;
-}
 .spoiler > input + label:after {
 	content: "+";
 	float: right;
@@ -137,10 +134,12 @@
 .spoiler > input + label {
 	padding: 5px 10px;
 }
+.spoiler > .spoiler_body {
+	padding: 5px;
+}
 .spoiler > input + label,
 .spoiler > .spoiler_body {
 	background: #ccc;
-	padding: 5px 5px;
 	overflow: hidden;
 	box-sizing: border-box;
 	display: block;
@@ -153,7 +152,15 @@
 	display: block;
 }
 .spoiler > .spoiler_body {
+	border-top: none;
+}
+
+/* Light spoiler */
+.spoiler > .spoiler_body {
 	background: #fff;
 	border: 3px solid #ccc;
-	border-top: none;
+}
+.spoiler > input + label,
+.spoiler > .spoiler_body {
+	background: #ccc;
 }
