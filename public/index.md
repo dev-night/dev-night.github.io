@@ -288,6 +288,3 @@ Just let us know via [mail](mailto:niklas@dev-night.io) or [twitter](https://twi
 If you know what you're doing we'll also appreciate a [pull request](https://github.com/dev-night/dev-night.github.io/pulls). ;)
 <br>
 Thanks!
-
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=4bc7r9mrsul96aol5f3bp5onig";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
