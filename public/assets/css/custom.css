@@ -141,6 +141,7 @@
 	overflow: hidden;
 	box-sizing: border-box;
 	display: block;
+	cursor: pointer;
 }
 .spoiler > input + label + .spoiler_body {
 	display: none;
