@@ -4,8 +4,18 @@
 
 # /dev/night - A meetup for developers
 
-<iframe id="ls_embed_1528373809" src="https://livestream.com/accounts/23776270/events/8239168/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="854" height="460" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+<iframe id="ls_embed_1528373809" src="https://livestream.com/accounts/23776270/events/8239168/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="816" height="440" frameborder="0" scrolling="no" allowfullscreen> </iframe>
 <script type="text/javascript" data-embed_id="ls_embed_1528373809" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
+
+<div class="spoiler">
+    <input type="checkbox" id="spoilerid_1">
+        <label for="spoilerid_1">
+            Ask the speaker
+        </label>
+    <div class="spoiler_body">
+            <iframe src="https://app.sli.do/event/1zakfcln" frameborder="0" height="565px" width="800px"></iframe>
+    </div>
+</div>
 
 <br />
 
@@ -288,6 +298,3 @@ Just let us know via [mail](mailto:niklas@dev-night.io) or [twitter](https://twi
 If you know what you're doing we'll also appreciate a [pull request](https://github.com/dev-night/dev-night.github.io/pulls). ;)
 <br>
 Thanks!
-
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=4bc7r9mrsul96aol5f3bp5onig";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>

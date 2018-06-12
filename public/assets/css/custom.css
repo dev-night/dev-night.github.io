@@ -113,3 +113,65 @@
 	margin: 5px;
 
 }
+
+
+/* Add styleing for the spoiler */
+.spoiler > input + label:after {
+	content: "+";
+	float: right;
+	font-family: monospace;
+	font-weight: bold;
+}
+.spoiler > input:checked + label:after {
+	content: "-";
+	float: right;
+	font-family: monospace;
+	font-weight: bold;
+}
+.spoiler > input {
+	display: none;
+}
+.spoiler > input + label {
+	padding: 5px 10px;
+}
+.spoiler > .spoiler_body {
+	padding: 5px;
+}
+.spoiler > input + label,
+.spoiler > .spoiler_body {
+	background: #ccc;
+	overflow: hidden;
+	box-sizing: border-box;
+	display: block;
+	cursor: pointer;
+}
+.spoiler > input + label + .spoiler_body {
+	display: none;
+}
+.spoiler > input:checked + label + .spoiler_body {
+	display: block;
+}
+.spoiler > .spoiler_body {
+	border-top: none;
+}
+
+/* Light spoiler */
+.spoiler > .spoiler_body {
+	background: #fff;
+	border: 3px solid #ccc;
+}
+.spoiler > input + label,
+.spoiler > .spoiler_body {
+	background: #ccc;
+}
+
+/* Dark spoiler */
+.dark_spoiler > .spoiler_body {
+	background: #1e88e5 !important;
+	border: 3px solid #1e88e5 !important;
+}
+.dark_spoiler > input + label,
+.dark_spoiler > .spoiler_body {
+	background: #1e88e5 !important;
+	color: #eee !important;
+}

@@ -11,6 +11,10 @@ jQuery(document).ready(function($){
 		// Display white icon
 		$('.linkjuice__icon').toggleClass('linkjuice__icon-white');
 
+		// Change spoiler
+		$('.spoiler').toggleClass('dark_spoiler');
+
+		// Change logo
 		$('#logo').toggleClass('shadowfilter');
 		$('#logo').toggleClass('shadowfilter_white');
 	})
