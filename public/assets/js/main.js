@@ -13,7 +13,6 @@ jQuery(document).ready(function($){
 
 		// Change spoiler
 		$('.spoiler').toggleClass('dark_spoiler');
-		$('.spoiler').toggleClass('light_spoiler');
 
 		// Change logo
 		$('#logo').toggleClass('shadowfilter');
