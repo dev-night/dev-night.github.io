@@ -2,7 +2,7 @@
     <img id="logo" src="/assets/img/dev_night-logo.png" class="shadowfilter">
 </div>
 
-# /dev/night - A meetup for developers
+# /dev/night - A meetup not only for developers
 
 <iframe id="ls_embed_1528373809" src="https://livestream.com/accounts/23776270/events/8239168/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="816" height="440" frameborder="0" scrolling="no" allowfullscreen> </iframe>
 <script type="text/javascript" data-embed_id="ls_embed_1528373809" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
@@ -21,9 +21,9 @@
 
 ## Why?
 
-Ansbach county: Home to many developers and now also home of a new meetup format. Every month on the second tuesday
+Ansbach county: Home to many developers and peoples alike. It is also the home of a new meetup format. Every month on the second Tuesday
 we come together at the Tradebyte Software GmbH in Ansbach to meet for the /dev/night! Our meetup focuses on sharing
-knowledge and experiences. We gather also to learn new thing with hands on practices and challenges.
+knowledge and experiences. We also gather to learn new things through hands on practices and challenges.
 
 ## Next Meetup
 
