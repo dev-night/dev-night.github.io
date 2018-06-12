@@ -134,10 +134,13 @@
 .spoiler > input {
 	display: none;
 }
+.spoiler > input + label {
+	padding: 5px 10px;
+}
 .spoiler > input + label,
 .spoiler > .spoiler_body {
 	background: #ccc;
-	padding: 5px 15px;
+	padding: 5px 5px;
 	overflow: hidden;
 	box-sizing: border-box;
 	display: block;

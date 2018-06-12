@@ -13,7 +13,7 @@
             Ask the speaker
         </label>
     <div class="spoiler_body">
-            <iframe src="https://app.sli.do/event/1zakfcln" frameborder="0" height="300px" width="816px"></iframe>
+            <iframe src="https://app.sli.do/event/1zakfcln" frameborder="0" height="565px" width="800px"></iframe>
     </div>
 </div>
 
