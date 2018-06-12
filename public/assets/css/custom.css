@@ -166,12 +166,12 @@
 }
 
 /* Dark spoiler */
-.spoiler .dark_spoiler > .spoiler_body {
+.dark_spoiler > .spoiler_body {
 	background: #1e88e5 !important;
 	border: 3px solid #1e88e5 !important;
 	color: #eee !important;
 }
-.spoiler .dark_spoiler > input + label,
-.spoiler .dark_spoiler > .spoiler_body {
+.dark_spoiler > input + label,
+.dark_spoiler > .spoiler_body {
 	background: #1e88e5 !important;
 }
