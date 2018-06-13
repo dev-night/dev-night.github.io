@@ -115,13 +115,13 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
-        <!-- <tr>
+        <tr>
             <td>#023</td>
             <td>12.06.2018</td>
             <td>/dev/night - Drinking some Elixir</td>
-            <td><a href="https://github.com/JTbyte">Joseph Varghese</td>
+            <td><a href="https://bitbucket.org/jvc007/">Joseph Varghese</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/023_drinking-some-elixir"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#022</td>
             <td>08.05.2018</td>
