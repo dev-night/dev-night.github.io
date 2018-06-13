@@ -37,10 +37,10 @@ knowledge and experiences. We also gather to learn new things through hands on p
     <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Date: 12th June 2018
+- Date: 10th July 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: /dev/night - Drinking some Elixir
+- Topic: /dev/night - _TBA_
 - We've pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -48,12 +48,10 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-This time Joseph will introduce us to [Elixir](https://elixir-lang.org/). Elixir is a functional, concurrent, general-purpose programming language which enables you to build distributed, fault-tolerant and maintainable applications by leveraging the Erlang VM (BEAM). We will also talk about the [Open Telecom Platform (OTP)](https://en.wikipedia.org/wiki/Open_Telecom_Platform) and how it can be used to build distributed application. After that we will build a simple app with Elixir!
+<!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
 
-[**We will also livestream the event!**](https://stream.dev-night.io)
-
-<!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
+<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
 <!-- After an introduction to the topic we'll practice what we've learn in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
