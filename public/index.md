@@ -48,9 +48,9 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-This time [Stefan](https://twitter.com/stesie23) will introduce us to [Kafka](https://kafka.apache.org/) which is a event streaming platform/message broker. First he'll explain to us the core concepts behind Kafka and how it is different from other [AMQP](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol) based message brokers like [RabbitMQ](https://www.rabbitmq.com/). We will also take a look at topics, partitions, message retention and which patterns there are regarding consumer groups.
+This time [Stefan](https://twitter.com/stesie23) will introduce us to [Kafka](https://kafka.apache.org/) which is an event streaming platform/message broker. First he'll explain to us the core concepts behind Kafka and how it is different from other [AMQP](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol) based message brokers like [RabbitMQ](https://www.rabbitmq.com/). We will also take a look at topics, partitions, message retention and which patterns there are regarding consumer groups.
 
-The second part will be about showing you [kafka-streams](https://kafka.apache.org/documentation/streams/) which is a stream processing library (client). With which you can describe functional data processing pipelines through some kind of [DSL](https://en.wikipedia.org/wiki/Domain-specific_language).
+The second part will be about showing you [kafka-streams](https://kafka.apache.org/documentation/streams/) which is a stream processing library (client), with which you can describe functional data processing pipelines through some kind of [DSL](https://en.wikipedia.org/wiki/Domain-specific_language).
 
 You'll also see some code examples using Java/[Spring Boot](https://spring.io/projects/spring-boot).
 
