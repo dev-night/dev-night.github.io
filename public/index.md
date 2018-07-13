@@ -4,16 +4,18 @@
 
 # /dev/night - A meetup not only for developers
 
-<iframe id="ls_embed_1528373809" src="https://livestream.com/accounts/23776270/events/8239168/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="816" height="440" frameborder="0" scrolling="no" allowfullscreen> </iframe>
-<script type="text/javascript" data-embed_id="ls_embed_1528373809" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
+<div class="livestream-section">
+    <iframe id="ls_embed_1528373809" src="https://livestream.com/accounts/23776270/events/8239168/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="816" height="440" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+    <script type="text/javascript" data-embed_id="ls_embed_1528373809" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
 
-<div class="spoiler">
-    <input type="checkbox" id="spoilerid_1">
-        <label for="spoilerid_1">
-            Ask the speaker
-        </label>
-    <div class="spoiler_body">
-            <iframe src="https://app.sli.do/event/1zakfcln" frameborder="0" height="565px" width="800px"></iframe>
+    <div class="spoiler">
+        <input type="checkbox" id="spoilerid_1">
+            <label for="spoilerid_1">
+                Ask the speaker
+            </label>
+        <div class="spoiler_body">
+                <iframe src="https://app.sli.do/event/1zakfcln" frameborder="0" height="565px" width="800px"></iframe>
+        </div>
     </div>
 </div>
 
