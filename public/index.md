@@ -4,20 +4,21 @@
 
 # /dev/night - A meetup not only for developers
 
-<iframe id="ls_embed_1528373809" src="https://livestream.com/accounts/23776270/events/8239168/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="816" height="440" frameborder="0" scrolling="no" allowfullscreen> </iframe>
-<script type="text/javascript" data-embed_id="ls_embed_1528373809" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
+<div class="livestream-section">
+    <iframe id="ls_embed_1528373809" src="https://livestream.com/accounts/23776270/events/8239168/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="816" height="440" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+    <script type="text/javascript" data-embed_id="ls_embed_1528373809" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
 
-<div class="spoiler">
-    <input type="checkbox" id="spoilerid_1">
-        <label for="spoilerid_1">
-            Ask the speaker
-        </label>
-    <div class="spoiler_body">
-            <iframe src="https://app.sli.do/event/1zakfcln" frameborder="0" height="565px" width="800px"></iframe>
+    <div class="spoiler">
+        <input type="checkbox" id="spoilerid_1">
+            <label for="spoilerid_1">
+                Ask the speaker
+            </label>
+        <div class="spoiler_body">
+                <iframe src="https://app.sli.do/event/1zakfcln" frameborder="0" height="565px" width="800px"></iframe>
+        </div>
     </div>
-</div>
-
 <br />
+</div>
 
 ## Why
 
@@ -37,10 +38,10 @@ knowledge and experiences. We also gather to learn new things through hands on p
     <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
 </div>
 
-- Date: 10th July 2018
+- Date: 14th August 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: /dev/night - Kafka how deep does the rabbit hole go?
+- Topic: /dev/night - __TBA__
 - We've pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -48,16 +49,10 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-This time [Stefan](https://twitter.com/stesie23) will introduce us to [Kafka](https://kafka.apache.org/) which is an event streaming platform/message broker. First he'll explain to us the core concepts behind Kafka and how it is different from other [AMQP](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol) based message brokers like [RabbitMQ](https://www.rabbitmq.com/). We will also take a look at topics, partitions, message retention and which patterns there are regarding consumer groups.
+<!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
 
-The second part will be about showing you [kafka-streams](https://kafka.apache.org/documentation/streams/) which is a stream processing library (client), with which you can describe functional data processing pipelines through some kind of [DSL](https://en.wikipedia.org/wiki/Domain-specific_language).
-
-You'll also see some code examples using Java/[Spring Boot](https://spring.io/projects/spring-boot).
-
-[**We will also livestream the event!**](https://stream.dev-night.io)
-
-<!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
+<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
 <!-- After an introduction to the topic we'll practice what we've learn in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
@@ -119,13 +114,13 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
-        <!-- <tr>
+        <tr>
             <td>#024</td>
             <td>10.06.2018</td>
             <td>/dev/night - Kafka how deep does the rabbit hole go?</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/024_kafka"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#023</td>
             <td>12.06.2018</td>

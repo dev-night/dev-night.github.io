@@ -47,4 +47,12 @@ jQuery(document).ready(function($){
 		 	}, scroll_top_duration
 		);
 	});
+
+	// make stream disappear when nothing is happening
+	var current = new Date();
+	var start = new Date("2018-08-13 10:00:00")
+
+	if(start.getTime()>=current.getTime()){
+		$('.livestream-section').hide();
+	}
 });
