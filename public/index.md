@@ -17,9 +17,8 @@
                 <iframe src="https://app.sli.do/event/1zakfcln" frameborder="0" height="565px" width="800px"></iframe>
         </div>
     </div>
-</div>
-
 <br />
+</div>
 
 ## Why
 
