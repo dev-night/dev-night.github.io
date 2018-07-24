@@ -41,7 +41,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Date: 14th August 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: /dev/night - __TBA__
+- Topic: /dev/night - EuroPython 2018 Recap
 - We've pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -49,10 +49,14 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-<!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
+This time we will give you a recap of the [EuroPython Conference](https://ep2018.europython.eu/en/) which we went to from the 25th to the 27th of July. The EuroPython Conference is the biggest Python Conference in Europe and took place in [Edinburgh](https://en.wikipedia.org/wiki/Edinburgh).
+You will learn about interesting topics and get a sense of the conference.
+Also we will talk about [note taking](https://twitter.com/niklas_heer/status/1018848291130310656) and getting the most out of a conference if you go with a group.
 
-<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
+[**We will also livestream the event!**](https://stream.dev-night.io)
+
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
 
 <!-- After an introduction to the topic we'll practice what we've learn in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
@@ -114,9 +118,16 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <!-- <tr>
+            <td>#025</td>
+            <td>14.08.2018</td>
+            <td>/dev/night - EuroPython 2018 Recap</td>
+            <td>Niklas, Tino, Fabian and Goran</td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/025_europython2018"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
         <tr>
             <td>#024</td>
-            <td>10.06.2018</td>
+            <td>10.07.2018</td>
             <td>/dev/night - Kafka how deep does the rabbit hole go?</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/024_kafka"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
