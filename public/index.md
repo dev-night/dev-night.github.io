@@ -31,11 +31,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
 <div class="alert alert-info">
     If you've been to one of our events already you should bring a laptop with a fully set up <a href="https://github.com/dev-night/tdd-starting-point"><b>development</b> and <b>testing</b></a>
     environment of your choice.
-    If sounds all new to you just bring you laptop.
-    <br />
-    <br />
-    We'll be there from 18:30 onwards to give you a little introduction into
-    <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a> if you desire. ;)
+    If sounds all new to you just bring your laptop.
 </div>
 
 - Date: 14th August 2018
