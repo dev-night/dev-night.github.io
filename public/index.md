@@ -34,10 +34,10 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If sounds all new to you just bring your laptop.
 </div>
 
-- Date: 11th September 2018
+- Date: 16th October 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
-- Time: 19:15
-- Topic: /dev/night - DDD Strategic Design - Predict the future by designing it
+- Time: 18:00
+- Topic: #027 /dev/night - Quintet - WebWeek Special
 - We've pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -45,9 +45,20 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-This time [Jochen](https://twitter.com/jochen_christ) will introduce you to the meta-topic DDD - Strategic Design.
-DDD (Domain Driven Design) can be split into two sides, Strategic Design and Tactical Design. Since the topic Domain Driven Design is huge Jochen will focus on Strategic Design in this talk.
-This talk will be in German.
+Usually we do the /dev/night each month on every second Tuesday. But this time its the NUEWW-Special: Five great talks - a true quintet - will be presented, with a mix of technical and organizational topics. Everything from Dev to Ops and also IT topics will be presented so there should be a talk for everyone.
+Networking is also welcome, since we got food and beverages.
+
+The Agenda:
+18:00 / Start @ Tradebyte Software GmbH, 3. floor
+
+18:30 / Vladislav Kuznetsov - Machine Learning concepts
+19:00 / Mohammad Javidan Darugar - Machine Learning in practice
+
+19:30 / Pizza and Mate
+
+20:00 / Joseph Varghese - Write your own Compiler
+20:30 / Patrick Reul - Self organisation devops style
+21:00 / Hannes Körber - Prometheus: Combining application and infrastructure monitoring
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
@@ -115,12 +126,19 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
     </thead>
     <tbody>
         <!-- <tr>
+            <td>#027</td>
+            <td>16.10.2018</td>
+            <td>#027 /dev/night - Quintet - WebWeek Special</td>
+            <td>Vladislav Kuznetsov, Mohammad Javidan Darugar, Joseph Varghese, Patrick Reul and Hannes Körber</td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/027_quintet-webweek-special"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
             <td>#026</td>
             <td>11.09.2018</td>
             <td>/dev/night - DDD Strategic Design - Predict the future by designing it</td>
             <td>Jochen</td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/025_europython2018"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/026_ddd-strategic-design"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#025</td>
             <td>14.08.2018</td>
