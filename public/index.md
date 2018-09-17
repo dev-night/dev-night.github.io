@@ -48,17 +48,17 @@ knowledge and experiences. We also gather to learn new things through hands on p
 Usually we do the /dev/night each month on every second Tuesday. But this time its the NUEWW-Special: Five great talks - a true quintet - will be presented, with a mix of technical and organizational topics. Everything from Dev to Ops and also IT topics will be presented so there should be a talk for everyone.
 Networking is also welcome, since we got food and beverages.
 
-The Agenda:
-18:00 / Start @ Tradebyte Software GmbH, 3. floor
-
-18:30 / Vladislav Kuznetsov - Machine Learning concepts
-19:00 / Mohammad Javidan Darugar - Machine Learning in practice
-
-19:30 / Pizza and Mate
-
-20:00 / Joseph Varghese - Write your own Compiler
-20:30 / Patrick Reul - Self organisation devops style
-21:00 / Hannes Körber - Prometheus: Combining application and infrastructure monitoring
+The Agenda:<br />
+18:00 / Start @ Tradebyte Software GmbH, 3. floor<br />
+<br />
+18:30 / Vladislav Kuznetsov - Machine Learning concepts<br />
+19:00 / Mohammad Javidan Darugar - Machine Learning in practice<br />
+<br />
+19:30 / Pizza and Mate<br />
+<br />
+20:00 / Joseph Varghese - Write your own Compiler<br />
+20:30 / Patrick Reul - Self organisation devops style<br />
+21:00 / Hannes Körber - Prometheus: Combining application and infrastructure monitoring<br />
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
