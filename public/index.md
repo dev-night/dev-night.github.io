@@ -38,7 +38,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 18:00
 - Topic: #027 /dev/night - Quintet - WebWeek Special
-- We've pizza and [Mate](http://www.clubmate.de/)!
+- We've Döner, Vegöner (the original one from Nürnberg) and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
@@ -54,7 +54,7 @@ The Agenda:<br />
 18:30 / Vladislav Kuznetsov - Machine Learning concepts<br />
 19:00 / Mohammad Javidan Darugar - Machine Learning in practice<br />
 <br />
-19:30 / Pizza and Mate<br />
+19:30 / Döner, Vegöner (the original one from Nürnberg) and Mate<br />
 <br />
 20:00 / Joseph Varghese - Write your own Compiler<br />
 20:30 / Patrick Reul - Self organisation devops style<br />
