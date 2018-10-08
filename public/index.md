@@ -31,7 +31,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
 <div class="alert alert-info">
     If you've been to one of our events already you should bring a laptop with a fully set up <a href="https://github.com/dev-night/tdd-starting-point"><b>development</b> and <b>testing</b></a>
     environment of your choice.
-    If sounds all new to you just bring your laptop.
+    If that sounds all new to you just bring your laptop.
 </div>
 
 - Date: 16th October 2018
@@ -45,7 +45,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 - Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
 
-Usually we do the /dev/night each month on every second Tuesday. But this time its the NUEWW-Special: Five great talks - a true quintet - will be presented, with a mix of technical and organizational topics. Everything from Dev to Ops and also IT topics will be presented so there should be a talk for everyone.
+Usually we do the /dev/night each month on the second Tuesday. But this time it's the NUEWW-Special: Five great talks - a true quintet - will be presented, with a mix of technical and organizational topics. Everything from Dev to Ops and also IT topics will be presented, so there should be a talk for everyone.
 Networking is also welcome, since we got food and beverages.
 
 The Agenda:<br />
@@ -65,7 +65,7 @@ The Agenda:<br />
 <!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
 
-<!-- After an introduction to the topic we'll practice what we've learn in a hands on session with
+<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
 
 ## Some pictures
