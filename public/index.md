@@ -20,6 +20,13 @@
 <br />
 </div>
 
+<br />
+
+<div class="slack-community">
+    <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community <i class="fa fa-slack fa-inverse" aria-hidden="true"></i>
+</button>
+</div>
+
 ## Why
 
 Ansbach county: Home to many developers and peoples alike. It is also the home of a new meetup format. Every month on the second Tuesday
