@@ -175,3 +175,8 @@
 	background: #1e88e5 !important;
 	color: #eee !important;
 }
+
+/* Slack button */
+.slack-community {
+	text-align: center;
+}

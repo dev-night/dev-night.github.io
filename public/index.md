@@ -20,12 +20,12 @@
 <br />
 </div>
 
-<br />
-
 <div class="slack-community">
-    <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community <i class="fa fa-slack fa-inverse" aria-hidden="true"></i>
+    <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community  <i class="fa fa-slack fa-inverse" aria-hidden="true"></i>
 </button>
 </div>
+
+<br />
 
 ## Why
 
