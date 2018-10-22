@@ -50,7 +50,7 @@ jQuery(document).ready(function($){
 
 	// make stream disappear when nothing is happening
 	var current = new Date();
-	var start = new Date("2018-10-15 10:00:00")
+	var start = new Date("2018-11-12 10:00:00")
 
 	if(start.getTime()>=current.getTime()){
 		$('.livestream-section').hide();

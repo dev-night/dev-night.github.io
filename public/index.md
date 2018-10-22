@@ -5,8 +5,8 @@
 # /dev/night - A meetup not only for developers
 
 <div class="livestream-section">
-    <iframe id="ls_embed_1528373809" src="https://livestream.com/accounts/23776270/events/8406262/player?width=640&height=360&enableInfoAndActivity=true&defaultDrower=&autoPlay=true&mute=false" width="816" height="440" frameborder="0" scrolling="no" allowfullscreen> </iframe>
-    <script type="text/javascript" data-embed_id="ls_embed_1528373809" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
+    <iframe id="ls_embed_1539691978" src="https://livestream.com/accounts/23776270/events/8406262/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" width="816" height="440" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+    <script type="text/javascript" data-embed_id="ls_embed_1539691978" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
 
     <div class="spoiler">
         <input type="checkbox" id="spoilerid_1">
@@ -34,31 +34,21 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div>
 
-- Date: 16th October 2018
-- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
-- Time: 18:00
-- Topic: #027 /dev/night - Quintet - WebWeek Special
-- We've Döner, Vegöner (the original one from Nürnberg) and [Mate](http://www.clubmate.de/)!
+- Date: 13th November 2018
+- Place: Hetzner Online GmbH (Industriestraße 25, 91735 Gunzenhausen)
+- Time: 19:30
+- Topic: #028 /dev/night @ friends - Control the real world with MicroPython
+- Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
-- Telegram: [/dev/night](https://telegram.me/joinchat/ACVCYwgGxmvZqGl4bCNsDg)
+- Slack: [/dev/night](https://slack.dev-night.io)
 
-Usually we do the /dev/night each month on the second Tuesday. But this time it's the NUEWW-Special: Five great talks - a true quintet - will be presented, with a mix of technical and organizational topics. Everything from Dev to Ops and also IT topics will be presented, so there should be a talk for everyone.
-Networking is also welcome, since we got food and beverages.
+We'll start with an introduction to the Python language by Florian Snow (from the FSFE) so everyone new to Python is very welcome and everyone else can get a refresher of their knowledge. ;)
+After that Thomas Christlieb will introduce us to the world of MicroPython and how we can use it to control real hardware. After the theoretical introduction we're going to have some fun with a few cheap boards and a little bit of hardware he'll bring along.
 
-The Agenda:<br />
-18:00 / Start @ Tradebyte Software GmbH, 3. floor<br />
-<br />
-18:30 / Vladislav Kuznetsov - Machine Learning concepts<br />
-19:00 / Mohammad Javidan Darugar - Machine Learning in practice<br />
-<br />
-19:30 / Döner, Vegöner (the original one from Nürnberg) and Mate<br />
-<br />
-20:00 / Joseph Varghese - Write your own Compiler<br />
-20:30 / Patrick Reul - Self organisation devops style<br />
-21:00 / Hannes Körber - Prometheus: Combining application and infrastructure monitoring<br />
+This will also be a special event because it will take place at the Hetzner office in Gunzenhausen.
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
@@ -126,12 +116,19 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
     </thead>
     <tbody>
         <!-- <tr>
+            <td>#028</td>
+            <td>13.11.2018</td>
+            <td>/dev/night @ friends - Control the real world with MicroPython</td>
+            <td>Florian Snow and Thomas Christlieb</td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/028_micropython"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
             <td>#027</td>
             <td>16.10.2018</td>
-            <td>#027 /dev/night - Quintet - WebWeek Special</td>
+            <td>/dev/night - Quintet - WebWeek Special</td>
             <td>Vladislav Kuznetsov, Mohammad Javidan Darugar, Joseph Varghese, Patrick Reul and Hannes Körber</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/027_quintet-webweek-special"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#026</td>
             <td>11.09.2018</td>
