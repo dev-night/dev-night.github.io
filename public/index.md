@@ -20,18 +20,13 @@
 <br />
 </div>
 
-<div class="slack-community">
-    <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community  <i class="fa fa-slack fa-inverse" aria-hidden="true"></i>
-</button>
-</div>
-
-<br />
-
 ## Why
 
 Ansbach county: Home to many developers and peoples alike. It is also the home of a new meetup format. Every month on the second Tuesday
 we come together at the Tradebyte Software GmbH in Ansbach to meet for the /dev/night! Our meetup focuses on sharing
 knowledge and experiences. We also gather to learn new things through hands on practices and challenges.
+
+
 
 ## Next Meetup
 
@@ -50,7 +45,6 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
-- Slack: [/dev/night](https://slack.dev-night.io)
 
 We'll start with an introduction to the Python language by Florian Snow (from the FSFE) so everyone new to Python is very welcome and everyone else can get a refresher of their knowledge. ;)
 After that Thomas Christlieb will introduce us to the world of MicroPython and how we can use it to control real hardware. After the theoretical introduction we're going to have some fun with a few cheap boards and a little bit of hardware he'll bring along.
@@ -58,6 +52,13 @@ After that Thomas Christlieb will introduce us to the world of MicroPython and h
 This will also be a special event because it will take place at the Hetzner office in Gunzenhausen.
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
+
+<div class="slack-community">
+    <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community <i class="fa fa-slack fa-inverse fa-2x" aria-hidden="true"></i>
+    </button><br />
+    dev-night.slack.com
+</div>
+<br />
 
 <!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->

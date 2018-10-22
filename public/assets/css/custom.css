@@ -181,3 +181,13 @@
 	padding-top: 10px;
 	text-align: center;
 }
+
+.slack-community > button {
+	font-size: 1.3rem;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+.slack-community > button > i {
+	padding-left: 5px;
+}
