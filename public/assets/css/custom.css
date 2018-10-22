@@ -178,5 +178,6 @@
 
 /* Slack button */
 .slack-community {
+	padding-top: 10px;
 	text-align: center;
 }
