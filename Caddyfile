@@ -1,0 +1,10 @@
+http://localhost:{$PORT} {
+    root /srv/public
+    gzip
+    rewrite index.html index.md
+
+    markdown / {
+        ext .md
+        template assets/hack.html
+    }
+}
