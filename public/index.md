@@ -10,7 +10,7 @@
 
 ## Why
 
-Ansbach county: Home to many developers and peoples alike. It is also the home of a new meetup format. Every month on the second Tuesday
+Ansbach county: Home to many developers and people alike. It is also the home of a new meetup format. Every month on the second Tuesday
 we come together at the Tradebyte Software GmbH in Ansbach to meet for the /dev/night! Our meetup focuses on sharing
 knowledge and experiences. We also gather to learn new things through hands on practices and challenges.
 
