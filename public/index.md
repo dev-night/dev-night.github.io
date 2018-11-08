@@ -25,7 +25,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
 </div>
 
 - Date: 13th November 2018
-- Place: Hetzner Online GmbH (Industriestraße 25, 91735 Gunzenhausen)
+- Place: Hetzner Online GmbH (Industriestraße 25, 91710 Gunzenhausen)
 - Time: 19:30
 - Topic: #028 /dev/night @ friends - Control the real world with MicroPython
 - Pizza and [Mate](http://www.clubmate.de/)!
