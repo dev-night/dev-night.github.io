@@ -14,8 +14,6 @@ Ansbach county: Home to many developers and people alike. It is also the home of
 we come together at the Tradebyte Software GmbH in Ansbach to meet for the /dev/night! Our meetup focuses on sharing
 knowledge and experiences. We also gather to learn new things through hands on practices and challenges.
 
-
-
 ## Next Meetup
 
 <div class="alert alert-info">
@@ -24,22 +22,17 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div>
 
-- Date: 13th November 2018
-- Place: Hetzner Online GmbH (Industriestraße 25, 91710 Gunzenhausen)
-- Time: 19:30
-- Topic: #028 /dev/night @ friends - Control the real world with MicroPython
+- Date: 11th December 2018
+- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
+- Time: 19:15
+- Topic: #029 /dev/night - _TBA_
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-We'll start with an introduction to the Python language by Florian Snow (from the FSFE) so everyone new to Python is very welcome and everyone else can get a refresher of their knowledge. ;)
-After that Thomas Christlieb will introduce us to the world of MicroPython and how we can use it to control real hardware. After the theoretical introduction we're going to have some fun with a few cheap boards and a little bit of hardware he'll bring along.
-
-This will also be a special event because it will take place at the Hetzner office in Gunzenhausen.
-
-[**We will also livestream the event!**](https://stream.dev-night.io)
+<!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
 
 <div class="slack-community">
     <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community <i class="fa fa-slack fa-inverse fa-2x" aria-hidden="true"></i>
@@ -48,8 +41,8 @@ This will also be a special event because it will take place at the Hetzner offi
 </div>
 <br />
 
-<!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
+<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
 <!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
@@ -111,13 +104,13 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
-        <!-- <tr>
+        <tr>
             <td>#028</td>
             <td>13.11.2018</td>
             <td>/dev/night @ friends - Control the real world with MicroPython</td>
             <td>Florian Snow and Thomas Christlieb</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/028_micropython"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#027</td>
             <td>16.10.2018</td>
