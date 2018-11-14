@@ -34,15 +34,15 @@ knowledge and experiences. We also gather to learn new things through hands on p
 
 <!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
 
+<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
+<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
+
 <div class="slack-community">
     <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community <i class="fa fa-slack fa-inverse fa-2x" aria-hidden="true"></i>
     </button><br />
     dev-night.slack.com
 </div>
 <br />
-
-<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
 <!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
