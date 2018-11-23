@@ -25,7 +25,7 @@ jQuery(document).ready(function($){
 
 	// Switch color mode based on the time of the day
 	const hours = new Date().getHours()
-	const isNightTime = hours > 20 && hours < 6
+	const isNightTime = hours => 19 && hours < 6
 	if (isNightTime) {
 		switchColorMode();
 	}
