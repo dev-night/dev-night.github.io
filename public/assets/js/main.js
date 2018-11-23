@@ -1,7 +1,6 @@
 jQuery(document).ready(function($){
 
-	// Dark Mode
-	$('#dark_mode').on('click', function(e){
+	function switchColorMode() {
 		$('body').toggleClass('solarized-dark');
 
 		// Make button display current state
@@ -17,7 +16,19 @@ jQuery(document).ready(function($){
 		// Change logo
 		$('#logo').toggleClass('shadowfilter');
 		$('#logo').toggleClass('shadowfilter_white');
+	}
+
+	// Dark Mode Button
+	$('#dark_mode').on('click', function(e){
+		switchColorMode();
 	})
+
+	// Switch color mode based on the time of the day
+	const hours = new Date().getHours()
+	const isNightTime = hours > 20 && hours < 6
+	if (isNightTime) {
+		switchColorMode();
+	}
 
 	linkjuice.init('.container',{selectors:['h2','h3','h4','h5'],icon:'<i class="linkjuice__icon"></i>'});
 
