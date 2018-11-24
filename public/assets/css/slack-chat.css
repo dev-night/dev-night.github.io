@@ -35,7 +35,7 @@
 	padding: 10px;
 	overflow: auto;
 	position: absolute;
-	bottom: 75px;
+	bottom: 90px;
 	top: 60px;
 	left: 0;
 	right: 0;
@@ -50,6 +50,7 @@
 	font-size: 12px;
 	padding: 5px;
 	min-height: 55px;
+	resize: horizontal !important;
 }
 
 .slackchat .slack-new-message:focus,
@@ -174,7 +175,7 @@
 }
 
 .slackchat .send-area {
-	height: 75px;
+	height: 90px;
 	display: block;
 	position: absolute;
 	left: 0;
@@ -182,5 +183,11 @@
 	bottom: 0;
 	border-top: 1px solid #ddd;
 	padding: 10px;
+	padding-top: 3px;
 	background: #fff;
+}
+
+.slack-user-name {
+	padding-bottom: 3px;
+	font-weight: 600;
 }
