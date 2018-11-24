@@ -39,13 +39,32 @@
 
     <a href="#0" class="cd-top">Top</a>
 
+    <script src="https://www.gstatic.com/firebasejs/5.5.9/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.5.9/firebase-firestore.js"></script>
     <script src="/assets/js/jquery-3.1.1.min.js"></script>
 	<script src="/assets/js/fotorama.js"></script>
     <script src="/assets/js/linkjuice.min.js"></script>
     <script src="/assets/js/moment.min.js"></script>
     <script src="/assets/js/slack-chat.min.js"></script>
+
+
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyDtf3HZPMQ9O0kbX7vpSYh1hEDbGInByXs",
+            authDomain: "devnight-website.firebaseapp.com",
+            databaseURL: "https://devnight-website.firebaseio.com",
+            projectId: "devnight-website",
+            storageBucket: "devnight-website.appspot.com",
+            messagingSenderId: "1005321691806"
+        };
+        firebase.initializeApp(config);
+        const db = firebase.firestore();
+        db.settings({ timestampsInSnapshots: true });
+    </script>
+
+
     <script src="/assets/js/slack.js"></script>
     <script src="/assets/js/main.js"></script>
-
 </body>
 </html>
