@@ -25,16 +25,29 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Date: 11th December 2018
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: #029 /dev/night - _TBA_
+- Topic: #029 /dev/night - Stairway to Service Mesh
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-<!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
+This time [Stefan](https://twitter.com/stesie23) will introduce us to service meshes.
+More specifically he will show us [Istio](https://istio.io/), which is a service mesh living on [Kubernetes](https://kubernetes.io/). Kubernetes is great but it lacks a must have for real world production scenarios. At least if we are talking about your microservice fleet integration over HTTP.
+Istio visualizes inter-service traffic and also allows you to control that traffic. With this you could do stuff like 5% of the traffic goes to a new service version and rest goes to the old one. You can also see which service depends on which.
+It also allows you to trace a request as it flows through the mesh and has circuit breaking features.
 
-<i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
+The best part:
+You don't need to modify the services themselves!
+Instead everything is handled by the infrastructure layer.
+
+After the introduction we'll have a demo/workshop so bring your laptops!
+If you want to prepare your environment you can follow these instructions:
+https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes#preparation
+
+[**We will also livestream the event!**](https://stream.dev-night.io)
+
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
 <div class="slack-community">
@@ -42,7 +55,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
     </button><br />
     dev-night.slack.com
 </div>
-<br />
+<br /> -->
 
 <!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
@@ -104,6 +117,13 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <!-- <tr>
+            <td>#029</td>
+            <td>11.12.2018</td>
+            <td>/dev/night - Stairway to Service Mesh</td>
+            <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
         <tr>
             <td>#028</td>
             <td>13.11.2018</td>
