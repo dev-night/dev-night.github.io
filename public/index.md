@@ -265,7 +265,7 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
             <td>#009</td>
             <td>11.04.2017</td>
             <td>Summer Jam</td>
-            <td></td>
+            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/2017-04-11_summer-jam"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
