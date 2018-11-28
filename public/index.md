@@ -42,8 +42,8 @@ You don't need to modify the services themselves!
 Instead everything is handled by the infrastructure layer.
 
 After the introduction we'll have a demo/workshop so bring your laptops!
-If you want to prepare your environment you can follow these instructions:
-https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes#preparation
+If you want to prepare your environment you can follow [these instructions](https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes#preparation).
+
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
