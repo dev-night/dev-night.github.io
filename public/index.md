@@ -48,7 +48,7 @@ If you want to prepare your environment you can follow [these instructions](http
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
 <!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
+<a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
 
 <div class="slack-community">
     <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community
@@ -105,7 +105,7 @@ If you want to prepare your environment you can follow [these instructions](http
 ## You want to give a talk on the /dev/night?
 
 Awesome! Just visit our [__talks submission page__](https://github.com/dev-night/talks/issues).<br>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
+<a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 <br />
 
 ## Given talks
