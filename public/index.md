@@ -106,6 +106,7 @@ If you want to prepare your environment you can follow [these instructions](http
 
 Awesome! Just visit our [__talks submission page__](https://github.com/dev-night/talks/issues).<br>
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
+<br />
 
 ## Given talks
 
