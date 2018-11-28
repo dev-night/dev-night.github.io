@@ -51,9 +51,12 @@ https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes#pr
 <a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
 <div class="slack-community">
-    <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community <i class="fa fa-slack fa-inverse fa-2x" aria-hidden="true"></i>
+    <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community
+    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
+        <i class="fab fa-slack"></i>
+    </span>
     </button><br />
-    dev-night.slack.com
+    slack.dev-night.io
 </div>
 <br /> -->
 
@@ -122,203 +125,203 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
             <td>11.12.2018</td>
             <td>/dev/night - Stairway to Service Mesh</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr> -->
         <tr>
             <td>#028</td>
             <td>13.11.2018</td>
             <td>/dev/night @ friends - Control the real world with MicroPython</td>
             <td>Florian Snow and Thomas Christlieb</td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/028_micropython"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/028_micropython"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#027</td>
             <td>16.10.2018</td>
             <td>/dev/night - Quintet - WebWeek Special</td>
             <td>Vladislav Kuznetsov, Mohammad Javidan Darugar, Joseph Varghese, Patrick Reul and Hannes Körber</td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/027_quintet-webweek-special"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/027_quintet-webweek-special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#026</td>
             <td>11.09.2018</td>
             <td>/dev/night - DDD Strategic Design - Predict the future by designing it</td>
             <td>Jochen</td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/026_ddd-strategic-design"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/026_ddd-strategic-design"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#025</td>
             <td>14.08.2018</td>
             <td>/dev/night - EuroPython 2018 Recap</td>
             <td>Niklas, Tino, Fabian and Goran</td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/025_europython2018"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/025_europython2018"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#024</td>
             <td>10.07.2018</td>
             <td>/dev/night - Kafka how deep does the rabbit hole go?</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/024_kafka"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/024_kafka"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#023</td>
             <td>12.06.2018</td>
             <td>/dev/night - Drinking some Elixir</td>
             <td><a href="https://bitbucket.org/jvc007/">Joseph Varghese</td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/023_drinking-some-elixir"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/023_drinking-some-elixir"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#022</td>
             <td>08.05.2018</td>
             <td>/dev/night - Kubernetes Deep Dive</td>
             <td><a href="https://github.com/hakoerber">Hannes Körber</a> and Vladislav Kuzntsov</td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/022_kubernetes-deep-dive"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/022_kubernetes-deep-dive"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#021</td>
             <td>10.04.2018</td>
             <td>/dev/night - Serverless durch die Nacht</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/021_serverless"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/021_serverless"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#020</td>
             <td>06.03.2018</td>
             <td>/dev/night - quartet - #WueWW special</td>
-            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/020_wueww_special"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td>Stanislau Saprankou, Andreas Rodriguez Rivera, Emmanuel-Jelome Fonseca and <a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/020_wueww_special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#019</td>
             <td>13.02.2018</td>
             <td>Twisted Game of Life</td>
             <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/019_twisted-game-of-life"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/019_twisted-game-of-life"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#018</td>
             <td>09.01.2018</td>
             <td>Global Game Jam - Warmup</td>
             <td><a href="https://github.com/akuryou">Fabian Ihl</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/018_global-game-jam-warmup"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/018_global-game-jam-warmup"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#017</td>
             <td>12.12.2017</td>
             <td>No password no cry</td>
             <td><a href="https://github.com/jochenchrist">Jochen Christ</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/017_no-password-no-cry"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/017_no-password-no-cry"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#016</td>
             <td>14.11.2017</td>
             <td>Workout for your TDD</td>
             <td><a href="https://github.com/mjainta">Martin Jainta</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/016_workout-for-your-tdd"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/016_workout-for-your-tdd"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#015</td>
             <td>10.10.2017</td>
             <td>Introduction to Angular</td>
             <td><a href="https://github.com/ElectricMaxxx">Maximilian Berghoff</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/015_introduction-to-angular"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/015_introduction-to-angular"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#014</td>
             <td>12.09.2017</td>
             <td>Riding the whale (Docker)</td>
             <td><a href="https://github.com/jochenchrist">Jochen Christ</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/014_riding-the-whale"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/014_riding-the-whale"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#013</td>
             <td>08.08.2017</td>
             <td>Introduction to React</td>
             <td>Florian Drechsler</td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/013_introduction-to-react"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/013_introduction-to-react"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#012</td>
             <td>11.07.2017</td>
             <td>Don't rest on REST (Swagger)</td>
             <td><a href="https://github.com/Akuryou">Fabian</a> and <a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/012_dont-rest-on-rest"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/012_dont-rest-on-rest"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#011</td>
             <td>13.06.2017</td>
             <td>Introduction to elm</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/011_introduction-into-elm"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2017/011_introduction-into-elm"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#010</td>
             <td>16.05.2017</td>
             <td>WebWeek Special</td>
-            <td></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2017-05-16_webweek-special"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td>Robert Gross, Martin Jainta, Markus Tacker, Richard Stromer, Sujay Kher, Daniel Meier and Fabian Ihl</td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2017-05-16_webweek-special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#009</td>
             <td>11.04.2017</td>
             <td>Summer Jam</td>
             <td></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2017-04-11_summer-jam"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2017-04-11_summer-jam"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#008</td>
             <td>14.03.2017</td>
             <td>hexagonal architecture</td>
             <td>Patrick</td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2017-03-14_hexagonal-architecture"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2017-03-14_hexagonal-architecture"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#007</td>
             <td>14.02.2017</td>
             <td>SOLID-Prinzipien</td>
             <td><a href="https://twitter.com/sd_alt">@sd_alt</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2017-02-14_solid"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2017-02-14_solid"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#006</td>
             <td>17.01.2017</td>
             <td>Global Game Jam - Vorbereitung</td>
             <td><a href="https://github.com/Akuryou">Akuryou</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2017-01-17_ggj-prepared"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2017-01-17_ggj-prepared"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#005</td>
             <td>13.12.2016</td>
             <td>Christmas Hack</td>
             <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2016-12-13_christmas-hack"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2016-12-13_christmas-hack"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#004</td>
             <td>08.11.2016</td>
             <td>TDD++ - "Wie schreibe ich testbaren Code?"</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2016-11-08_TDD-continued"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2016-11-08_TDD-continued"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#003</td>
             <td>11.10.2016</td>
             <td>TDD (Test Driven Development)</td>
             <td><a href="https://twitter.com/sd_alt">@sd_alt</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2016-10-11_test-driven-development"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2016-10-11_test-driven-development"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#002</td>
             <td>13.09.2016</td>
             <td>CQRS/ES (Command Query Responsibility Segregation und Event Sourcing)</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2016-09-13_event-sourcing"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2016-09-13_event-sourcing"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#001</td>
             <td>09.08.2016</td>
             <td>Transaction Patterns</td>
             <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
-            <td><a class="repo_link" href="https://github.com/dev-night/2016-08-09_transaction-patterns"><i class="fa fa-github fa-2" aria-hidden="true"></i></a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/2016-08-09_transaction-patterns"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
     </tbody>
 </table>
