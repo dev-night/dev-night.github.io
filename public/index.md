@@ -14,7 +14,17 @@ Ansbach county: Home to many developers and people alike. It is also the home of
 we come together at the Tradebyte Software GmbH in Ansbach to meet for the /dev/night! Our meetup focuses on sharing
 knowledge and experiences. We also gather to learn new things through hands on practices and challenges.
 
-## Next Meetup
+<div class="slack-community">
+    <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community
+    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
+        <i class="fab fa-slack"></i>
+    </span>
+    </button><br />
+    slack.dev-night.io
+</div>
+<br />
+
+<h2>Next Meetup </h2>
 
 <div class="alert alert-info">
     If you've been to one of our events already you should bring a laptop with a fully set up <a href="https://github.com/dev-night/tdd-starting-point"><b>development</b> and <b>testing</b></a>
@@ -45,18 +55,18 @@ After the introduction we'll get together in pairs and will practice what Martin
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
-<!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
-<a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
-
-<div class="slack-community">
-    <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community
+<div class="meetup-rsvp">
+    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
     <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
-        <i class="fab fa-slack"></i>
+        <i class="fab fa-meetup"></i>
     </span>
     </button><br />
-    slack.dev-night.io
+    meetup.dev-night.io
 </div>
 <br />
+
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
+<a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
 
 <!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
