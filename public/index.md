@@ -22,28 +22,26 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div>
 
-- Date: 11th December 2018
+- Date: 22nd January 2019
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: #029 /dev/night - Stairway to Service Mesh
+- Topic: #030 /dev/night - Next Level Jam
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-This time [Stefan](https://twitter.com/stesie23) will introduce us to service meshes.
-More specifically he will show us [Istio](https://istio.io/), which is a service mesh living on [Kubernetes](https://kubernetes.io/). Kubernetes is great but it lacks a must have for real world production scenarios. At least if we are talking about your microservice fleet integration over HTTP.
-Istio visualizes inter-service traffic and also allows you to control that traffic. With this you could do stuff like 5% of the traffic goes to a new service version and rest goes to the old one. You can also see which service depends on which.
-It also allows you to trace a request as it flows through the mesh and has circuit breaking features.
+On the 25th of January to the 27th Tradebyte will host the Global Game Jam 2019 (GGJ) in Ansbach! <br/>
+To register or get more information follow [**this link**](https://ggj.tradebyte.com/).
 
-The best part:
-You don't need to modify the services themselves!
-Instead everything is handled by the infrastructure layer.
+It is our tradition to level up your game development skills for the event so that you can jam safely ;) <br />
+This time [Martin](https://github.com/mjainta) and [Niklas](https://twitter.com/niklas_heer) will give you an introduction into what is the [GGJ](https://globalgamejam.org/faq) and some valuable tips to have an awesome game jam.
+For everyone new to game development Martin will introduce you to [Phaser](https://phaser.io/) ([3](https://phaser.io/phaser3)) which is a HTML5 game development framework.
 
-After the introduction we'll have a demo/workshop so bring your laptops!
-If you want to prepare your environment you can follow [these instructions](https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes#preparation).
+If you want to take a look at it before the event: [http://phaser.io/](https://phaser.io/)
 
+After the introduction we'll get together in pairs and will practice what Martin showed us with a little challenge to be fully prepared for the GGJ.
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
@@ -104,7 +102,7 @@ If you want to prepare your environment you can follow [these instructions](http
 
 ## You want to give a talk on the /dev/night?
 
-Awesome! Just visit our [__talks submission page__](https://github.com/dev-night/talks/issues).<br>
+Awesome! Just visit our [**talks submission page**](https://github.com/dev-night/talks/issues).<br>
 <a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 <br />
 
@@ -122,12 +120,19 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
     </thead>
     <tbody>
         <!-- <tr>
+            <td>#030</td>
+            <td>22.01.2019</td>
+            <td>/dev/night - Next Level Jam</td>
+            <td><a href="https://github.com/mjainta">Martin Jainta</a> and <a href="https://twitter.com/niklas_heer">Niklas Heer</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/030_next-level-jam"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
             <td>#029</td>
             <td>11.12.2018</td>
             <td>/dev/night - Stairway to Service Mesh</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#028</td>
             <td>13.11.2018</td>
