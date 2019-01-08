@@ -43,7 +43,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
 On the 25th of January to the 27th Tradebyte will host the Global Game Jam 2019 (GGJ) in Ansbach! <br/>
-To register or get more information follow [**this link**](https://ggj.tradebyte.com/).
+To register or get more information follow [**this link**](https://tradebyte.com/ggj).
 
 It is our tradition to level up your game development skills for the event so that you can jam safely ;) <br />
 This time [Martin](https://github.com/mjainta) and [Niklas](https://twitter.com/niklas_heer) will give you an introduction into what is the [GGJ](https://globalgamejam.org/faq) and some valuable tips to have an awesome game jam.
