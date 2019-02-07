@@ -32,26 +32,21 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div>
 
-- Date: 22nd January 2019
+- Date: 12th February 2019
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: #030 /dev/night - Next Level Jam
+- Topic: #031 /dev/night - Go to gRPC
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-On the 25th of January to the 27th Tradebyte will host the Global Game Jam 2019 (GGJ) in Ansbach! <br/>
-To register or get more information follow [**this link**](https://tradebyte.com/ggj).
+This time Goran and Naren will introduce you to the [Go language](https://golang.org/).
+Naren will teach you the basics of the language and show you how Go handles concurrency.
+After that Goran will do a deep dive by writing a Go application to work with streams over [HTTP/2](https://http2.github.io/) by using [gRPC](https://grpc.io/).
 
-It is our tradition to level up your game development skills for the event so that you can jam safely ;) <br />
-This time [Martin](https://github.com/mjainta) and [Niklas](https://twitter.com/niklas_heer) will give you an introduction into what is the [GGJ](https://globalgamejam.org/faq) and some valuable tips to have an awesome game jam.
-For everyone new to game development Martin will introduce you to [Phaser](https://phaser.io/) ([3](https://phaser.io/phaser3)) which is a HTML5 game development framework.
-
-If you want to take a look at it before the event: [http://phaser.io/](https://phaser.io/)
-
-After the introduction we'll get together in pairs and will practice what Martin showed us with a little challenge to be fully prepared for the GGJ.
+We will follow this up by a challenge to implement a little Go application yourself so you can really grasp the language afterwards.
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
@@ -130,12 +125,19 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
     </thead>
     <tbody>
         <!-- <tr>
+            <td>#031</td>
+            <td>12.02.2019</td>
+            <td>/dev/night - Go to gRPC</td>
+            <td>Goran and Naren</td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/031_go-to-grpc"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
             <td>#030</td>
             <td>22.01.2019</td>
             <td>/dev/night - Next Level Jam</td>
             <td><a href="https://github.com/mjainta">Martin Jainta</a> and <a href="https://twitter.com/niklas_heer">Niklas Heer</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/030_next-level-jam"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#029</td>
             <td>11.12.2018</td>
