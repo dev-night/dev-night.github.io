@@ -26,28 +26,40 @@ knowledge and experiences. We also gather to learn new things through hands on p
 
 <h2>Next Meetup </h2>
 
-<div class="alert alert-info">
+<!-- <div class="alert alert-info">
     If you've been to one of our events already you should bring a laptop with a fully set up <a href="https://github.com/dev-night/tdd-starting-point"><b>development</b> and <b>testing</b></a>
     environment of your choice.
     If that sounds all new to you just bring your laptop.
-</div>
+</div> -->
 
-- Date: 12th March 2019
-- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
+- Date: 19th March 2019
+- Place: Online via Zoom
 - Time: 19:15
-- Topic: #032 /dev/night - Show off your tools
+- Topic: #002 /dev/night/org
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-This time Niklas will show you a selection of his favorite tools. Including a way to deploy your frontend without the need of a server to step into the world of serverless with ease. 🚀
-After that everyone is invited to show off their favorite tool within a 10 minute timelimit so that we can share lots of tools and boost each others productivity. 💪
+<!-- [**We will also livestream the event!**](https://stream.dev-night.io)
 
-If you want to show off your tool(s) please bring your laptop or presentation device and your tool. 😉
+<div class="meetup-rsvp">
+    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
+    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
+        <i class="fab fa-meetup"></i>
+    </span>
+    </button><br />
+    meetup.dev-night.io
+</div>
+<br /> -->
 
-[**We will also livestream the event!**](https://stream.dev-night.io)
+<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
+[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
+
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
+
+<i>We will have an organizational event on the **19th of March @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
 
 <div class="meetup-rsvp">
     <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
@@ -59,24 +71,7 @@ If you want to show off your tool(s) please bring your laptop or presentation de
 </div>
 <br />
 
-<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i>
-
-<i>We will have an organizational event on the **19th of February @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i> -->
-
-<!-- <div class="meetup-rsvp">
-    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
-    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
-        <i class="fab fa-meetup"></i>
-    </span>
-    </button><br />
-    meetup.dev-night.io
-</div>
-<br /> -->
-
 <a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
-
-<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
-[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
 
 ## Some pictures
 
@@ -136,13 +131,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
-        <!-- <tr>
+        <tr>
             <td>#032</td>
             <td>12.03.2019</td>
             <td>/dev/night - Show off your tools</td>
             <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/032_show-off-your-tools"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#031</td>
             <td>12.02.2019</td>
