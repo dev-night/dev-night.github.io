@@ -141,6 +141,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
     </thead>
     <tbody>
         <tr>
+            <td>#033</td>
+            <td>12.03.2019</td>
+            <td>/dev/night - #WueWW special</td>
+            <td><a href="https://twitter.com/@FrankPrechtel">Frank/a> and <a href="https://twitter.com/@narenarya3">Naren</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/033_wueww-special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
             <td>#032</td>
             <td>12.03.2019</td>
             <td>/dev/night - Show off your tools</td>
