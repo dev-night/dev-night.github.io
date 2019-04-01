@@ -393,3 +393,9 @@ Just let us know via [mail](mailto:niklas@dev-night.io) or [twitter](https://twi
 If you know what you're doing we'll also appreciate a [pull request](https://github.com/dev-night/dev-night.github.io/pulls). ;)
 <br>
 Thanks!
+
+---
+
+<center>
+[Imprint](https://www.tradebyte.com/en/impressum/) | [Data Protection Statement](https://www.tradebyte.com/en/data-protection/)
+</center>
