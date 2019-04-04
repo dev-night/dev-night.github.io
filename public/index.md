@@ -32,43 +32,17 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 2nd April 2019
-- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
-- Time: 19:00
-- Topic: #033 /dev/night - #WueWW special
+- Date: 9th April 2019
+- Place: Online via Zoom
+- Time: 19:15
+- Topic: #003 /dev/night/org
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-Our #033 /dev/night will be a special event in the context of the Würzburg Web Week 2019, hosting two sessions which start on the 2nd of April at 19:00.
-
-Agenda:
-
-- 19:00 / _Welcome + Arrival_
-- 19:30 / _Building (a) Legacy_ by Frank Prechtel
-- 20:15 / Food break
-- 21:00 / _Entity vs Behavioral thinking_ by Naren Yellavula
-
-[**We will also livestream the event!**](https://stream.dev-night.io)
-
-<div class="meetup-rsvp">
-    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
-    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
-        <i class="fab fa-meetup"></i>
-    </span>
-    </button><br />
-    meetup.dev-night.io
-</div>
-<br />
-
-<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
-[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
-
-<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
-
-<!-- <i>We will have an organizational event on the **19th of March @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
+<!-- [**We will also livestream the event!**](https://stream.dev-night.io)
 
 <div class="meetup-rsvp">
     <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
@@ -79,6 +53,23 @@ Agenda:
     meetup.dev-night.io
 </div>
 <br /> -->
+
+<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
+[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
+
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
+
+<i>We will have an organizational event on the **9th of April @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
+
+<div class="meetup-rsvp">
+    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
+    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
+        <i class="fab fa-meetup"></i>
+    </span>
+    </button><br />
+    meetup.dev-night.io
+</div>
+<br />
 
 <a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
@@ -144,7 +135,7 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
             <td>#033</td>
             <td>12.03.2019</td>
             <td>/dev/night - #WueWW special</td>
-            <td><a href="https://twitter.com/@FrankPrechtel">Frank/a> and <a href="https://twitter.com/@narenarya3">Naren</a></td>
+            <td><a href="https://twitter.com/@FrankPrechtel">Frank</a> and <a href="https://twitter.com/@narenarya3">Naren</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/033_wueww-special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
