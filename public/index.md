@@ -32,34 +32,25 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 9th April 2019
-- Place: Online via Zoom
+- Date: 14th May 2019
+- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: #003 /dev/night/org
+- Topic: #034 /dev/night - Test all the PHPings with Codeception
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-<!-- [**We will also livestream the event!**](https://stream.dev-night.io)
+This time Bernd will introduce us to [Codeception](https://codeception.com/) which is a testing framework for PHP.
+It can run different kinds of tests and understands different test formats.
+You will learn what Codeception is and why you should use it. We'll also cover what Codeception can do for you to help you writing tests.
+But the most interesting part will be how you can write different types of tests with it!
 
-<div class="meetup-rsvp">
-    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
-    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
-        <i class="fab fa-meetup"></i>
-    </span>
-    </button><br />
-    meetup.dev-night.io
-</div>
-<br /> -->
+After an introduction to the topic we'll practice what we've learned in a hands on session with
+[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)
 
-<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
-[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
-
-<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
-
-<i>We will have an organizational event on the **9th of April @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
+[**We will also livestream the event!**](https://stream.dev-night.io)
 
 <div class="meetup-rsvp">
     <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
@@ -70,6 +61,23 @@ knowledge and experiences. We also gather to learn new things through hands on p
     meetup.dev-night.io
 </div>
 <br />
+
+<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
+[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
+
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
+
+<!-- <i>We will have an organizational event on the **9th of April @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
+
+<div class="meetup-rsvp">
+    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
+    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
+        <i class="fab fa-meetup"></i>
+    </span>
+    </button><br />
+    meetup.dev-night.io
+</div>
+<br /> -->
 
 <a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
@@ -131,6 +139,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>#034</td>
+            <td>14.05.2019</td>
+            <td>Test all the PHPings with Codeception</td>
+            <td><a href="https://twitter.com/burned42">Bernd</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/034_codeception"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#033</td>
             <td>12.03.2019</td>
