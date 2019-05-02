@@ -139,13 +139,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <!-- <tr>
             <td>#034</td>
             <td>14.05.2019</td>
             <td>Test all the PHPings with Codeception</td>
             <td><a href="https://twitter.com/burned42">Bernd</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/034_codeception"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr>
+        </tr> -->
         <tr>
             <td>#033</td>
             <td>12.04.2019</td>
