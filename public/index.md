@@ -32,34 +32,25 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 9th April 2019
-- Place: Online via Zoom
+- Date: 14th May 2019
+- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: #003 /dev/night/org
+- Topic: #034 /dev/night - Test all the PHPings with Codeception
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-<!-- [**We will also livestream the event!**](https://stream.dev-night.io)
+This time Bernd will introduce us to [Codeception](https://codeception.com/) which is a testing framework for PHP.
+It can run different kinds of tests and understands different test formats.
+You will learn what Codeception is and why you should use it. We'll also cover what Codeception can do for you to help you writing tests.
+But the most interesting part will be how you can write different types of tests with it!
 
-<div class="meetup-rsvp">
-    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
-    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
-        <i class="fab fa-meetup"></i>
-    </span>
-    </button><br />
-    meetup.dev-night.io
-</div>
-<br /> -->
+After an introduction to the topic we'll practice what we've learned in a hands on session with
+[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)
 
-<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
-[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
-
-<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
-
-<i>We will have an organizational event on the **9th of April @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
+[**We will also livestream the event!**](https://stream.dev-night.io)
 
 <div class="meetup-rsvp">
     <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
@@ -70,6 +61,23 @@ knowledge and experiences. We also gather to learn new things through hands on p
     meetup.dev-night.io
 </div>
 <br />
+
+<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
+[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
+
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
+
+<!-- <i>We will have an organizational event on the **9th of April @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
+
+<div class="meetup-rsvp">
+    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
+    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
+        <i class="fab fa-meetup"></i>
+    </span>
+    </button><br />
+    meetup.dev-night.io
+</div>
+<br /> -->
 
 <a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 
@@ -131,38 +139,45 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <!-- <tr>
+            <td>#034</td>
+            <td>14.05.2019</td>
+            <td>Test all the PHPings with Codeception</td>
+            <td><a href="https://twitter.com/burned42">Bernd</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/034_codeception"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
         <tr>
             <td>#033</td>
-            <td>12.03.2019</td>
-            <td>/dev/night - #WueWW special</td>
+            <td>12.04.2019</td>
+            <td>#WueWW special</td>
             <td><a href="https://twitter.com/@FrankPrechtel">Frank</a> and <a href="https://twitter.com/@narenarya3">Naren</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/033_wueww-special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#032</td>
             <td>12.03.2019</td>
-            <td>/dev/night - Show off your tools</td>
+            <td>Show off your tools</td>
             <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/032_show-off-your-tools"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#031</td>
             <td>12.02.2019</td>
-            <td>/dev/night - Go to gRPC</td>
+            <td>Go to gRPC</td>
             <td><a href="https://twitter.com/@gorancetusic">Goran</a> and <a href="https://twitter.com/@narenarya3">Naren</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/031_go-to-grpc"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#030</td>
             <td>22.01.2019</td>
-            <td>/dev/night - Next Level Jam</td>
+            <td>Next Level Jam</td>
             <td><a href="https://github.com/mjainta">Martin Jainta</a> and <a href="https://twitter.com/niklas_heer">Niklas Heer</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/030_next-level-jam"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#029</td>
             <td>11.12.2018</td>
-            <td>/dev/night - Stairway to Service Mesh</td>
+            <td>Stairway to Service Mesh</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
@@ -176,56 +191,56 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         <tr>
             <td>#027</td>
             <td>16.10.2018</td>
-            <td>/dev/night - Quintet - WebWeek Special</td>
+            <td>Quintet - WebWeek Special</td>
             <td>Vladislav Kuznetsov, Mohammad Javidan Darugar, Joseph Varghese, Patrick Reul and Hannes Körber</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/027_quintet-webweek-special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#026</td>
             <td>11.09.2018</td>
-            <td>/dev/night - DDD Strategic Design - Predict the future by designing it</td>
+            <td>DDD Strategic Design - Predict the future by designing it</td>
             <td>Jochen</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/026_ddd-strategic-design"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#025</td>
             <td>14.08.2018</td>
-            <td>/dev/night - EuroPython 2018 Recap</td>
+            <td>EuroPython 2018 Recap</td>
             <td>Niklas, Tino, Fabian and Goran</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/025_europython2018"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#024</td>
             <td>10.07.2018</td>
-            <td>/dev/night - Kafka how deep does the rabbit hole go?</td>
+            <td>Kafka how deep does the rabbit hole go?</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/024_kafka"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#023</td>
             <td>12.06.2018</td>
-            <td>/dev/night - Drinking some Elixir</td>
+            <td>Drinking some Elixir</td>
             <td><a href="https://bitbucket.org/jvc007/">Joseph Varghese</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/023_drinking-some-elixir"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#022</td>
             <td>08.05.2018</td>
-            <td>/dev/night - Kubernetes Deep Dive</td>
+            <td>Kubernetes Deep Dive</td>
             <td><a href="https://github.com/hakoerber">Hannes Körber</a> and Vladislav Kuzntsov</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/022_kubernetes-deep-dive"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#021</td>
             <td>10.04.2018</td>
-            <td>/dev/night - Serverless durch die Nacht</td>
+            <td>Serverless durch die Nacht</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/021_serverless"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#020</td>
             <td>06.03.2018</td>
-            <td>/dev/night - quartet - #WueWW special</td>
+            <td>quartet - #WueWW special</td>
             <td>Stanislau Saprankou, Andreas Rodriguez Rivera, Emmanuel-Jelome Fonseca and <a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/020_wueww_special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
