@@ -32,11 +32,11 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 16th July 2019
-- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
-- Time: 19:00
-- Topic: #036 /dev/night - [#nuedigital](https://nuernberg.digital/festival) special
-- Pizza and [Mate](http://www.clubmate.de/)!
+- Date: 23rd July 2019
+- Place: Online via Google Meet
+- Time: 19:15
+- Topic: #006 /dev/night/org
+<!-- - Pizza and [Mate](http://www.clubmate.de/)! -->
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
@@ -45,36 +45,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
 <!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :) -->
 
-Usually we do the /dev/night each month on every second Tuesday.
-But this time its a special for the "Nürnberg Digital Festival": Three great talks will be presented, there should be an interesting topic for everyone.
-Networking is also welcome, since we got food and beverages.
-
-The Agenda:
-
-- 19:00 / *Welcome + Arrival*
-- 19:30 / *Laravel, beyond the framework* by [Ramesh](https://twitter.com/mhetreramesh)
-- 20:00 / Food break
-- 20:30 / *Self-Contained Systems* by [Jochen](https://twitter.com/jochen_christ)
-- 21:00 / *Openstreetmap: How to put the world into a database* by [Thomas](https://github.com/ThomasChr)
-
-[**We will also livestream the event!**](https://stream.dev-night.io)
-
-<div class="meetup-rsvp">
-    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
-    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
-        <i class="fab fa-meetup"></i>
-    </span>
-    </button><br />
-    meetup.dev-night.io
-</div>
-<br />
-
-<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
-[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
-
-<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
-
-<!-- <i>We will have an organizational event on the **18th of June @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
+<!-- [**We will also livestream the event!**](https://stream.dev-night.io)
 
 <div class="meetup-rsvp">
     <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
@@ -85,6 +56,23 @@ The Agenda:
     meetup.dev-night.io
 </div>
 <br /> -->
+
+<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
+[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
+
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
+
+<i>We will have an organizational event on the **23rd of July @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
+
+<div class="meetup-rsvp">
+    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
+    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
+        <i class="fab fa-meetup"></i>
+    </span>
+    </button><br />
+    meetup.dev-night.io
+</div>
+<br />
 
 <!-- <a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
 
@@ -146,13 +134,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
-        <!-- <tr>
+        <tr>
             <td>#036</td>
             <td>16.07.2019</td>
             <td>#nuedigital special</td>
             <td><a href="https://twitter.com/mhetreramesh">Ramesh</a>, <a href="https://twitter.com/jochen_christ">Jochen</a> and <a href="https://github.com/ThomasChr">Thomas</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/036_nuedigital-special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#035</td>
             <td>11.06.2019</td>
