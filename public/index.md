@@ -36,7 +36,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Place: Online via Google Meet
 - Time: 19:15
 - Topic: #006 /dev/night/org
-<!-- - Pizza and [Mate](http://www.clubmate.de/)! -->
+  <!-- - Pizza and [Mate](http://www.clubmate.de/)! -->
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
@@ -117,8 +117,19 @@ knowledge and experiences. We also gather to learn new things through hands on p
 
 ## You want to give a talk on the /dev/night?
 
-Awesome! Just visit our [**talks submission page**](https://github.com/dev-night/talks/issues).<br>
+Awesome! Just visit our [**talks submission page**](https://github.com/dev-night/talks/issues).
+<br /><br />
 <a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
+<br />
+
+<div class="suggest-talk">
+    <button onclick="location.href='https://github.com/dev-night/talks/issues/new'" class="btn btn-success">Suggest talk
+    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
+        <i class="fas fa-lightbulb"></i>
+    </span>
+    </button><br />
+    github.com/dev-night/talks/issues/new
+</div>
 <br />
 
 ## Given talks
