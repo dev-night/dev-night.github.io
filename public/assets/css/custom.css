@@ -199,6 +199,22 @@
   padding-left: 5px;
 }
 
+/* Suggest Talk button */
+.suggest-talk {
+  padding-top: 10px;
+  text-align: center;
+}
+
+.suggest-talk > button {
+  font-size: 1.3rem;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.suggest-talk > button > i {
+  padding-left: 5px;
+}
+
 /* Slack button */
 .slack-community {
   padding-top: 10px;
