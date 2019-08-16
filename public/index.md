@@ -32,11 +32,11 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 13th August 2019
-- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
+- Date: 20th August 2019
+- Place: Online via Google Meet
 - Time: 19:15
-- Topic: #037 /dev/night - Java weather forecast: cheerful to cloudy
-- Pizza and [Mate](http://www.clubmate.de/)!
+- Topic: #007 /dev/night/org
+<!-- - Pizza and [Mate](http://www.clubmate.de/)! -->
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
@@ -45,11 +45,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
 <!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :) -->
 
-[Harald](https://twitter.com/haraldpehl) will introduce us to [Quarkus](https://quarkus.io/) and show the techniques used behind the scenes. Examples and live coding will show you how to use Quarkus starting from Maven archetype to OpenShift deployment.
-
-> Quarkus is a microservices Java stack bringing your favorite libs (Hibernate, vert.x, Camel, RESTEasy ...) to GraalVM and HotSpot with low memory usage and fast boot time.
-
-[**We will also livestream the event!**](https://stream.dev-night.io)
+<!-- [**We will also livestream the event!**](https://stream.dev-night.io)
 
 <div class="meetup-rsvp">
     <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
@@ -60,13 +56,14 @@ knowledge and experiences. We also gather to learn new things through hands on p
     meetup.dev-night.io
 </div>
 <br />
+ -->
 
 <!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
 
 <!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
 
-<!-- <i>We will have an organizational event on the **23rd of July @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
+<i>We will have an organizational event on the **20th of August @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
 
 <div class="meetup-rsvp">
     <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
@@ -76,7 +73,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
     </button><br />
     meetup.dev-night.io
 </div>
-<br /> -->
+<br />
 
 <!-- <a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
 
@@ -149,13 +146,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
-        <!-- <tr>
+        <tr>
             <td>#037</td>
             <td>13.08.2019</td>
             <td>Java weather forecast: cheerful to cloudy</td>
             <td><a href="https://twitter.com/haraldpehl">Harald</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/037_quarkus"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#036</td>
             <td>16.07.2019</td>
