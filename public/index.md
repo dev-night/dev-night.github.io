@@ -32,11 +32,11 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 20th August 2019
-- Place: Online via Google Meet
+- Date: 10th September 2019
+- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: #007 /dev/night/org
-<!-- - Pizza and [Mate](http://www.clubmate.de/)! -->
+- Topic: #038 /dev/night - Productivity Potluck
+- Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
@@ -45,10 +45,13 @@ knowledge and experiences. We also gather to learn new things through hands on p
 <!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :) -->
 
-<!-- [**We will also livestream the event!**](https://stream.dev-night.io)
+This time we'll do a Potluck. Which means everyone can bring their talk and we throw everything together. The topic will be about productivity. It can be a tool, idea, framework or maybe just an insight. So if you want to talk about something (can also be free form) you just need to bring your presentation device if you need one. (between 5 and 15 minutes)
+Niklas will start with a talk about what he learned about being productive to break the ice and provide a starting point. 🚀
+
+[**We will also livestream the event!**](https://stream.dev-night.io)
 
 <div class="meetup-rsvp">
-    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
+    <button onclick="location.href='https://www.meetup.com/de-DE/dev_night/events/264580930/'" class="btn btn-error">Register now
     <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
         <i class="fab fa-meetup"></i>
     </span>
@@ -56,14 +59,14 @@ knowledge and experiences. We also gather to learn new things through hands on p
     meetup.dev-night.io
 </div>
 <br />
- -->
+
 
 <!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
 
 <!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
 
-<i>We will have an organizational event on the **20th of August @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
+<!-- <i>We will have an organizational event on the **20th of August @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
 
 <div class="meetup-rsvp">
     <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
@@ -73,7 +76,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
     </button><br />
     meetup.dev-night.io
 </div>
-<br />
+<br /> -->
 
 <!-- <a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
 
