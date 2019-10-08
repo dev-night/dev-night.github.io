@@ -65,7 +65,7 @@ If you are an open source maintainer or want to direct people helping out a proj
 - 21:30 / *Demos - 3 to 5 minute demo of your contribution*
 
 ### Prizes
-- First pull request of the evening will receive a /dev/nigth shirt.
+- First pull request of the evening will receive a /dev/night shirt.
 - We will do a raffle amongst everyone who has done a pull-request and give away 3 additional /dev/night shirts.
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
