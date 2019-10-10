@@ -32,11 +32,11 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 8th October 2019
-- Place: Media Lab Ansbach (Johann-Sebastian-Bach-Platz 22, 91522 Ansbach)
-- Time: 18:30
-- Topic: #039 /dev/night - Hacktoberfest Open Hack Night @ Media Lab Ansbach
-- Pizza and [Mate](http://www.clubmate.de/)!
+- Date: 15th October 2019
+- Place: Online via Google Meet
+- Time: 19:15
+- Topic: #009 /dev/night/org
+<!-- - Pizza and [Mate](http://www.clubmate.de/)! -->
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
@@ -45,49 +45,24 @@ knowledge and experiences. We also gather to learn new things through hands on p
 <!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :) -->
 
-We will celebrate open-source and introduce you to [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and show you how you can participate and help open-source while also getting a T-Shirt.
-
-> Hacktoberfest is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
-
-This event will take place at the [Media Lab Ansbach](https://www.media-lab.de/ansbach).
-
-*Important:* Please also bring your laptop, because you will be able to start right at the event to earn your T-Shirt.
-
-If you are an open source maintainer or want to direct people helping out a project, please prepare a 3 to 5 minute pitch to introduce people to your project.
-
-### The Agenda
-- 18:30 / *Welcome + Arrival*
-- 19:00 / *Intro to Hacktoberfest* by Niklas
-- 19:15 / *Workshop - how to contribute to open source* by Niklas
-- 19:30 / *Pitches - 3 to 5 minute pitch of your open source project*
-- 20:00 / Food break
-- 20:30 / *Hacktime*
-- 21:30 / *Demos - 3 to 5 minute demo of your contribution*
-
-### Prizes
-- First pull request of the evening will receive a /dev/night shirt.
-- We will do a raffle amongst everyone who has done a pull-request and give away 3 additional /dev/night shirts.
-
-[**We will also livestream the event!**](https://stream.dev-night.io)
+<!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
 
 <!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
 [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
 
 <!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
 
-<!-- <i>We will have an organizational event on the **17th of September @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
+<i>We will have an organizational event on the **15th of October @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i>
 
 <div class="meetup-rsvp">
-    <button onclick="location.href='https://www.meetup.com/de-DE/dev_night/events/264747667'" class="btn btn-error">Register now
+    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
     <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
         <i class="fab fa-meetup"></i>
     </span>
     </button><br />
     meetup.dev-night.io
 </div>
-<br /> -->
-
-<!-- <a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
+<br />
 
 ## Some pictures
 
@@ -159,6 +134,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
     </thead>
     <tbody>
         <tr>
+            <td>#039</td>
+            <td>08.10.2019</td>
+            <td>Hacktoberfest Open Hack Night @ Media Lab Ansbach</td>
+            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/039_hacktoberfest"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
             <td>#038</td>
             <td>10.09.2019</td>
             <td>Productivity Potluck</td>
@@ -218,7 +200,7 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
             <td>#030</td>
             <td>22.01.2019</td>
             <td>Next Level Jam</td>
-            <td><a href="https://github.com/mjainta">Martin Jainta</a> and <a href="https://twitter.com/niklas_heer">Niklas Heer</a></td>
+            <td><a href="https://github.com/mjainta">Martin Jainta</a> and <a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/030_next-level-jam"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
@@ -253,7 +235,7 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
             <td>#025</td>
             <td>14.08.2018</td>
             <td>EuroPython 2018 Recap</td>
-            <td>Niklas, Tino, Fabian and Goran</td>
+            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a>, Tino, Fabian and Goran</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/025_europython2018"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
