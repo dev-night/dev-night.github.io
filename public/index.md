@@ -32,19 +32,22 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 19th November 2019
+- Date: 10th December 2019
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: #040 /dev/night - Coding Katas
+- Topic: #041 /dev/night - Pentesting / XSS
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-This time we'll go back to our roots and venture into coding katas. First we'll have a short introduction into the topic for all which are new to test driven development or the concept of coding katas. After that we will build pairs and practice our TDD muscles. 🚀
+This time [Daniel Budick](https://twitter.com/zenturee) will introduce us into the topic of penetration testing and more specifically into XSS (Cross-site scripting).
+He will start out with a little bit of theory about the mindset of the attacker and will go more into depth during the event.
+After the theory we will apply what we learned in practice and do hands-on capture the flag scenarios.
 
-After an introduction to the topic we'll practice what we've learned in a hands on session with [pairs](http://www.extremeprogramming.org/rules/pair.html)! :)
+**Please bring your laptop.**<br/>
+**Please also [install the ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) software on your laptop.**
 
 [**We will also livestream the event!**](https://stream.dev-night.io)
 
@@ -131,6 +134,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <!-- <tr>
+            <td>#041</td>
+            <td>10.12.2019</td>
+            <td>Pentesting / XSS</td>
+            <td><a href="https://twitter.com/zenturee">@zenturee</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/041_pentesting-xss"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
         <tr>
             <td>#040</td>
             <td>19.11.2019</td>
