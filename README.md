@@ -4,9 +4,11 @@ This repo is the source of [dev-night.github.io](http://dev-night.io/).
 
 ## Environments
 
-* [`staging`](https://staging.dev-night.io) - `develop` branch
-* [`live`](https://dev-night.io) - `live` branch
+- [`develop`](https://develop.dev-night.io) - `develop` branch
+- [`master`](https://dev-night.io) - `master` branch
 
 ## Development
 
-You can use `make` to run an instance and see your changes. (requires `docker`)
+You need the `netlify` cli tool. See the [installation instructions](https://docs.netlify.com/cli/get-started/).
+
+After that you can use `netlify dev` to work on the site and see a preview.

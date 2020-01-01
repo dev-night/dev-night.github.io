@@ -1,13 +1,3 @@
-<div class="dev_night_logo">
-    <img id="logo" src="/assets/img/dev_night-logo.png" class="shadowfilter">
-</div>
-
-# /dev/night - A meetup not only for developers
-
-<div class="livestream-section">
-    <!-- This is a placeholder. It will be injected via Javascript. -->
-</div>
-
 ## Why
 
 Ansbach county: Home to many developers and people alike. It is also the home of a new meetup format. Every month on the second Tuesday
