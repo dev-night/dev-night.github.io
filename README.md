@@ -1,11 +1,15 @@
-# dev-night.github.io
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3c4f8f6f-77b4-4b5f-8fdf-5439cf21c93f/deploy-status)](https://app.netlify.com/sites/dev-night/deploys)
+
+# dev-night.io
 
 This repo is the source of [dev-night.github.io](http://dev-night.io/).
 
+It is deployed via [Netlify](https://www.netlify.com/).
+
 ## Environments
 
-- [`develop`](https://develop.dev-night.io) - `develop` branch
-- [`master`](https://dev-night.io) - `master` branch
+- [`develop`](https://develop.dev-night.io) branch
+- [`master`](https://dev-night.io) branch
 
 ## Development
 
