@@ -1,54 +1,8 @@
-<div class="dev_night_logo">
-    <img id="logo" src="/assets/img/dev_night-logo.png" class="shadowfilter">
-</div>
-
-# /dev/night - A meetup not only for developers
-
-<div class="livestream-section">
-    <!-- This is a placeholder. It will be injected via Javascript. -->
-</div>
-
 ## Why
 
 Ansbach county: Home to many developers and people alike. It is also the home of a new meetup format. Every month on the second Tuesday
 we come together at the Tradebyte Software GmbH in Ansbach to meet for the /dev/night! Our meetup focuses on sharing
 knowledge and experiences. We also gather to learn new things through hands on practices and challenges.
-
-## Next Meetup
-
-<div class="alert alert-info">
-    If you've been to one of our events already you should bring a laptop with a fully set up <a href="https://github.com/dev-night/tdd-starting-point"><b>development</b> and <b>testing</b></a>
-    environment of your choice.
-    If that sounds all new to you just bring your laptop.
-</div>
-
-- Date: 11th December 2018
-- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
-- Time: 19:15
-- Topic: #029 /dev/night - Stairway to Service Mesh
-- Pizza and [Mate](http://www.clubmate.de/)!
-- Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
-- Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
-- Twitter: [@dev_night](https://twitter.com/dev_night)
-- Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
-
-This time [Stefan](https://twitter.com/stesie23) will introduce us to service meshes.
-More specifically he will show us [Istio](https://istio.io/), which is a service mesh living on [Kubernetes](https://kubernetes.io/). Kubernetes is great but it lacks a must have for real world production scenarios. At least if we are talking about your microservice fleet integration over HTTP.
-Istio visualizes inter-service traffic and also allows you to control that traffic. With this you could do stuff like 5% of the traffic goes to a new service version and rest goes to the old one. You can also see which service depends on which.
-It also allows you to trace a request as it flows through the mesh and has circuit breaking features.
-
-The best part:
-You don't need to modify the services themselves!
-Instead everything is handled by the infrastructure layer.
-
-After the introduction we'll have a demo/workshop so bring your laptops!
-If you want to prepare your environment you can follow [these instructions](https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes#preparation).
-
-
-[**We will also livestream the event!**](https://stream.dev-night.io)
-
-<!-- <i>Right now we are looking for a talk. If you're interested please visit our [__talks submission page__](https://github.com/dev-night/talks/issues).</i>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a> -->
 
 <div class="slack-community">
     <button onclick="location.href='https://slack.dev-night.io'" class="btn btn-primary">Join the community
@@ -60,8 +14,46 @@ If you want to prepare your environment you can follow [these instructions](http
 </div>
 <br />
 
-<!-- After an introduction to the topic we'll practice what we've learned in a hands on session with
-[pairs](http://www.extremeprogramming.org/rules/pair.html)! :)-->
+<h2>Next Meetup </h2>
+
+<!-- <div class="alert alert-info">
+    If you've been to one of our events already you should bring a laptop with a fully set up <a href="https://github.com/dev-night/tdd-starting-point"><b>development</b> and <b>testing</b></a>
+    environment of your choice.
+    If that sounds all new to you just bring your laptop.
+</div> -->
+
+- Date: 10th December 2019
+- Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
+- Time: 19:15
+- Topic: #041 /dev/night - Pentesting / XSS
+- Pizza and [Mate](http://www.clubmate.de/)!
+- Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
+- Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
+- Twitter: [@dev_night](https://twitter.com/dev_night)
+- Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
+
+This time [Daniel Budick](https://twitter.com/zenturee) will introduce us into the topic of penetration testing and more specifically into XSS (Cross-site scripting).
+He will start out with a little bit of theory about the mindset of the attacker and will go more into depth during the event.
+After the theory we will apply what we learned in practice and do hands-on capture the flag scenarios.
+
+**Please bring your laptop.**<br/>
+**Please also [install the ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) software on your laptop.**
+
+[**We will also livestream the event!**](https://stream.dev-night.io)
+
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
+
+<!-- <i>We will have an organizational event on the **15th of October @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i> -->
+
+<div class="meetup-rsvp">
+    <button onclick="location.href='https://meetup.dev-night.io'" class="btn btn-error">Register now
+    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
+        <i class="fab fa-meetup"></i>
+    </span>
+    </button><br />
+    meetup.dev-night.io
+</div>
+<br />
 
 ## Some pictures
 
@@ -104,11 +96,22 @@ If you want to prepare your environment you can follow [these instructions](http
 
 ## You want to give a talk on the /dev/night?
 
-Awesome! Just visit our [__talks submission page__](https://github.com/dev-night/talks/issues).<br>
-<a href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
+Awesome! Just visit our [**talks submission page**](https://github.com/dev-night/talks/issues).
+<br /><br />
+<a class="featured-picture" href="https://github.com/dev-night/talks"><img src="https://raw.github.com/dev-night/talks/master/.github/images/workflow.png"></a>
 <br />
 
-## Given talks
+<div class="suggest-talk">
+    <button onclick="location.href='https://github.com/dev-night/talks/issues/new'" class="btn btn-success">Suggest talk
+    <span style="font-size: 2em; font-weight: normal; padding-left: 7px;">
+        <i class="fas fa-lightbulb"></i>
+    </span>
+    </button><br />
+    github.com/dev-night/talks/issues/new
+</div>
+<br />
+
+## Talk notes
 
 <table class="events">
     <thead>
@@ -122,12 +125,96 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
     </thead>
     <tbody>
         <!-- <tr>
+            <td>#041</td>
+            <td>10.12.2019</td>
+            <td>Pentesting / XSS</td>
+            <td><a href="https://twitter.com/zenturee">@zenturee</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/041_pentesting-xss"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr> -->
+        <tr>
+            <td>#040</td>
+            <td>19.11.2019</td>
+            <td>Coding Katas</td>
+            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/040_coding-katas"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td>#039</td>
+            <td>08.10.2019</td>
+            <td>Hacktoberfest Open Hack Night @ Media Lab Ansbach</td>
+            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/039_hacktoberfest"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td>#038</td>
+            <td>10.09.2019</td>
+            <td>Productivity Potluck</td>
+            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a>, Fabian, Florian, Bernd and Thomas</td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/038_productivity-potluck"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td>#037</td>
+            <td>13.08.2019</td>
+            <td>Java weather forecast: cheerful to cloudy</td>
+            <td><a href="https://twitter.com/haraldpehl">Harald</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/037_quarkus"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td>#036</td>
+            <td>16.07.2019</td>
+            <td>#nuedigital special</td>
+            <td><a href="https://twitter.com/mhetreramesh">Ramesh</a>, <a href="https://twitter.com/jochen_christ">Jochen</a> and <a href="https://github.com/ThomasChr">Thomas</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/036_nuedigital-special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td>#035</td>
+            <td>11.06.2019</td>
+            <td>A blog of Laravel</td>
+            <td><a href="https://github.com/juancarmo">Juan</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/035_laravel"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td>#034</td>
+            <td>14.05.2019</td>
+            <td>Test all the PHPings with Codeception</td>
+            <td><a href="https://twitter.com/burned42">Bernd</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/034_codeception"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td>#033</td>
+            <td>12.04.2019</td>
+            <td>#WueWW special</td>
+            <td><a href="https://twitter.com/@FrankPrechtel">Frank</a> and <a href="https://twitter.com/@narenarya3">Naren</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/033_wueww-special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td>#032</td>
+            <td>12.03.2019</td>
+            <td>Show off your tools</td>
+            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/032_show-off-your-tools"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td>#031</td>
+            <td>12.02.2019</td>
+            <td>Go to gRPC</td>
+            <td><a href="https://twitter.com/@gorancetusic">Goran</a> and <a href="https://twitter.com/@narenarya3">Naren</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/031_go-to-grpc"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
+            <td>#030</td>
+            <td>22.01.2019</td>
+            <td>Next Level Jam</td>
+            <td><a href="https://github.com/mjainta">Martin Jainta</a> and <a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2019/030_next-level-jam"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
+        <tr>
             <td>#029</td>
             <td>11.12.2018</td>
-            <td>/dev/night - Stairway to Service Mesh</td>
+            <td>Stairway to Service Mesh</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/029_service-meshes"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
-        </tr> -->
+        </tr>
         <tr>
             <td>#028</td>
             <td>13.11.2018</td>
@@ -138,56 +225,56 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
         <tr>
             <td>#027</td>
             <td>16.10.2018</td>
-            <td>/dev/night - Quintet - WebWeek Special</td>
+            <td>Quintet - WebWeek Special</td>
             <td>Vladislav Kuznetsov, Mohammad Javidan Darugar, Joseph Varghese, Patrick Reul and Hannes Körber</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/027_quintet-webweek-special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#026</td>
             <td>11.09.2018</td>
-            <td>/dev/night - DDD Strategic Design - Predict the future by designing it</td>
+            <td>DDD Strategic Design - Predict the future by designing it</td>
             <td>Jochen</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/026_ddd-strategic-design"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#025</td>
             <td>14.08.2018</td>
-            <td>/dev/night - EuroPython 2018 Recap</td>
-            <td>Niklas, Tino, Fabian and Goran</td>
+            <td>EuroPython 2018 Recap</td>
+            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a>, Tino, Fabian and Goran</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/025_europython2018"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#024</td>
             <td>10.07.2018</td>
-            <td>/dev/night - Kafka how deep does the rabbit hole go?</td>
+            <td>Kafka how deep does the rabbit hole go?</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/024_kafka"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#023</td>
             <td>12.06.2018</td>
-            <td>/dev/night - Drinking some Elixir</td>
+            <td>Drinking some Elixir</td>
             <td><a href="https://bitbucket.org/jvc007/">Joseph Varghese</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/023_drinking-some-elixir"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#022</td>
             <td>08.05.2018</td>
-            <td>/dev/night - Kubernetes Deep Dive</td>
+            <td>Kubernetes Deep Dive</td>
             <td><a href="https://github.com/hakoerber">Hannes Körber</a> and Vladislav Kuzntsov</td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/022_kubernetes-deep-dive"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#021</td>
             <td>10.04.2018</td>
-            <td>/dev/night - Serverless durch die Nacht</td>
+            <td>Serverless durch die Nacht</td>
             <td><a href="https://twitter.com/stesie23">@stesie23</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/021_serverless"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
             <td>#020</td>
             <td>06.03.2018</td>
-            <td>/dev/night - quartet - #WueWW special</td>
+            <td>quartet - #WueWW special</td>
             <td>Stanislau Saprankou, Andreas Rodriguez Rivera, Emmanuel-Jelome Fonseca and <a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2018/020_wueww_special"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
@@ -265,7 +352,7 @@ Awesome! Just visit our [__talks submission page__](https://github.com/dev-night
             <td>#009</td>
             <td>11.04.2017</td>
             <td>Summer Jam</td>
-            <td></td>
+            <td><a href="https://twitter.com/niklas_heer">@niklas_heer</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/2017-04-11_summer-jam"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
         <tr>
@@ -346,3 +433,9 @@ Just let us know via [mail](mailto:niklas@dev-night.io) or [twitter](https://twi
 If you know what you're doing we'll also appreciate a [pull request](https://github.com/dev-night/dev-night.github.io/pulls). ;)
 <br>
 Thanks!
+
+---
+
+<center>
+[Imprint](https://www.tradebyte.com/en/impressum/) | [Data Protection Statement](https://www.tradebyte.com/en/data-protection/)
+</center>

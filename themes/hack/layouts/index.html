@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <div class="dev_night_logo">
+      <img id="logo" src="/assets/img/dev_night-logo.png" class="shadowfilter">
+  </div>
+
+  <h1>/dev/night - A meetup not only for developers</h1>
+
+  <div class="livestream-section">
+    <!-- This is a placeholder. It will be injected via Javascript. -->
+  </div>
+
+  {{ .Content | markdownify }}
+{{ end }}
