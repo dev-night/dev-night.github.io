@@ -22,19 +22,26 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: _not yet determined_
+- Date: 21.01.2020
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: #042 /dev/night - _not yet determined_
+- Topic: #042 /dev/night - Introduction to Pathfinding
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
+This time Fabian Ihl will introduce us to pathfinding in games. Pathfinding algorithms are usually an attempt to solve the shortest path problem in graph theory. It is used in games or in your navigation device to determine "the best" route between two points.
+
+This is a preparation for the Global Game Jam (GGJ) which will take place from the 31st of January to the 2nd of February.
+Tradebyte is also hosting the GGJ in Ansbach. If you want to participate you can register yourself [**here**](https://globalgamejam.org/2020/jam-sites/tradebyte-software-gmbh).
+
+Please bring your laptop.
+
 <!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
 
-<i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i>
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
 
 <!-- <i>We will have an organizational event on the **15th of October @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i> -->
 
@@ -117,6 +124,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>#042</td>
+            <td>21.01.2020</td>
+            <td>Pentesting / XSS</td>
+            <td><a href="https://github.com/akuryou">Fabian Ihl</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2020/042_pathfinding"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#041</td>
             <td>10.12.2019</td>
