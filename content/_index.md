@@ -127,7 +127,7 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         <tr>
             <td>#042</td>
             <td>21.01.2020</td>
-            <td>Pentesting / XSS</td>
+            <td>Introduction to Pathfinding</td>
             <td><a href="https://github.com/akuryou">Fabian Ihl</a></td>
             <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2020/042_pathfinding"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
         </tr>
