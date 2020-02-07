@@ -22,22 +22,39 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 21.01.2020
+- Date: 11.02.2020
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: #042 /dev/night - Introduction to Pathfinding
+- Topic: #043 /dev/night - Optimizing Docker Builds
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-This time Fabian Ihl will introduce us to pathfinding in games. Pathfinding algorithms are usually an attempt to solve the shortest path problem in graph theory. It is used in games or in your navigation device to determine "the best" route between two points.
+### Are you using Docker images for deploying your apps?
 
-This is a preparation for the Global Game Jam (GGJ) which will take place from the 31st of January to the 2nd of February.
-Tradebyte is also hosting the GGJ in Ansbach. If you want to participate you can register yourself [**here**](https://globalgamejam.org/2020/jam-sites/tradebyte-software-gmbh).
+AWS services like ECS and EKS needs lean builds(can make the process slower). On the other side, CI/CD and local development need faster builds(can get output bulky).
+​
+In this talk, Naren will show you a few strategies for optimizing your docker builds against time and size. You will see with various examples of possible optimizations and trade-offs.
 
-Please bring your laptop.
+#### Theme
+
+1) To show what impacts time and size while building a Docker image
+2) How to optimize for time?
+3) How to optimize for size?
+4) Can we achieve both 2 & 3?
+​
+#### Agenda
+
+- Choosing the right base image (Slim, Alpine, etc.)
+- Build time. vs run time dependencies
+- Importance of Docker layers
+- Multi-stage building
+- Using squid proxy for caching the re-installable packages
+- Digging deep for junk in images
+​
+The final example: Deploying a Django application with Wheel(No eggs) and multi-stage builds.
 
 <!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
 
@@ -124,6 +141,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>#043</td>
+            <td>11.02.2020</td>
+            <td>Optimizing Docker Builds</td>
+            <td><a href="https://twitter.com/@narenarya3">Naren</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2020/043_optimizing-docker"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#042</td>
             <td>21.01.2020</td>
