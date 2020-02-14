@@ -22,43 +22,19 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 11.02.2020
+- Date: 10.03.2020
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: #043 /dev/night - Optimizing Docker Builds
+- Topic: #044 /dev/night - _to be determined_
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-### Are you using Docker images for deploying your apps?
-
-AWS services like ECS and EKS needs lean builds(can make the process slower). On the other side, CI/CD and local development need faster builds(can get output bulky).
-​
-In this talk, Naren will show you a few strategies for optimizing your docker builds against time and size. You will see with various examples of possible optimizations and trade-offs.
-
-#### Theme
-
-1) To show what impacts time and size while building a Docker image
-2) How to optimize for time?
-3) How to optimize for size?
-4) Can we achieve both 2 & 3?
-​
-#### Agenda
-
-- Choosing the right base image (Slim, Alpine, etc.)
-- Build time. vs run time dependencies
-- Importance of Docker layers
-- Multi-stage building
-- Using squid proxy for caching the re-installable packages
-- Digging deep for junk in images
-​
-The final example: Deploying a Django application with Wheel(No eggs) and multi-stage builds.
-
 <!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
 
-<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
+<i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i>
 
 <!-- <i>We will have an organizational event on the **15th of October @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i> -->
 
