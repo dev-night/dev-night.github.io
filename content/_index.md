@@ -38,6 +38,7 @@ There are numerous DNS server implementations (including open source and non-ope
 
 In this talk Bahram will introduce us to the [DNSDist](https://dnsdist.org/) Loadbalancer and its security features.
 Here are some of DNSDist awesome features:
+
 - LoadBalancing Policies
 - Effective Caching
 - Packet Policies (Drop, Forward, Answer, Delay)
