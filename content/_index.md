@@ -25,16 +25,36 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Date: 10.03.2020
 - Place: Tradebyte Software GmbH (Bahnhofsplatz 8, 91522 Ansbach)
 - Time: 19:15
-- Topic: #044 /dev/night - _to be determined_
+- Topic: #044 /dev/night - The power of DNS Load-balancing including DDoS mitigation
 - Pizza and [Mate](http://www.clubmate.de/)!
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-<!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
+DNS is one of the most fundamental protocols of computer networks, especially the Internet. Unfortunately, this protocol was designed with minimal security features in mind. This has led us to this point that it has become of the easiest and convenient targets for attackers world wide.
 
-<i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i>
+There are numerous DNS server implementations (including open source and non-open source ones) with some security features embedded but none of them have fine granularity control over these features. On the other hand, there has not been a proper DNS-aware load balancer until recently. DNSDist (dnsdist.org) is one of the powerful DDoS-aware DNS load balancer out there totally available open source. Previously, there were UDP load balancers which did not understand DNS protocol properly.
+
+In this talk Bahram will introduce us to the [DNSDist](https://dnsdist.org/) Loadbalancer and its security features.
+Here are some of DNSDist awesome features:
+- LoadBalancing Policies
+- Effective Caching
+- Packet Policies (Drop, Forward, Answer, Delay)
+- Various Rules (QPS, QType, RCode, QName, Regex, ACL, etc)
+- Dynamic Rule Generation
+- Fine control over responses (RecBit, DNSSec, TTL, etc)
+- Security Protocols (DoH, DoT, DNSCrypt)
+- Using Kernel Features (eBPF, SO_REUSEPORT)
+- Builtin-Webserver and Console access for live monitoring
+- Provide custom functionality using LUA scripts
+
+DNSDist has a high potential for being a commercial out-of-the-box product.
+For example in Open-Xchange they are providing a distribution of DnsDist: https://www.open-xchange.com/portfolio/dnsdist/
+
+[**We will also livestream the event!**](https://stream.dev-night.io)
+
+<!-- <i>Right now we are looking for a talk. If you're interested please visit our [**talks submission page**](https://github.com/dev-night/talks/issues).</i> -->
 
 <!-- <i>We will have an organizational event on the **15th of October @ 19:15** called **/dev/night/org**. There we'll organize and brainstorm about future events. Come up with talk ideas. Improve the /dev/night and discuss projects. Everyone is welcome to join the event! Help us make the /dev/night better for you!</i> -->
 
@@ -117,6 +137,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>#044</td>
+            <td>10.03.2020</td>
+            <td>The power of DNS Load-balancing including DDoS mitigation</td>
+            <td>Bahram</td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2020/044_dnsdist"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#043</td>
             <td>11.02.2020</td>
