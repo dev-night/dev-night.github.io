@@ -22,7 +22,7 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 10.03.2020
+- Date: 19.05.2020
 - Place: Online
 - Time: 19:15
 - Topic: #044 /dev/night/online - The power of DNS Load-balancing & DDoS mitigation
