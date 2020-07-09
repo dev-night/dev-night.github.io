@@ -22,10 +22,10 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 19.05.2020
+- Date: 14.07.2020
 - Place: Online
 - Time: 19:15
-- Topic: #044 /dev/night/online - The power of DNS Load-balancing & DDoS mitigation
+- Topic: #045 /dev/night/online - ClojureScript Unpacked
 <!-- - Pizza and [Mate](http://www.clubmate.de/)! -->
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -33,29 +33,19 @@ knowledge and experiences. We also gather to learn new things through hands on p
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
 This will be an online event!
-We will add the link to join here as soon as we have it.
-We will use a self-hosted Jitsi instance.
+The link to join: https://join.dev-night.io/
 
-DNS is one of the most fundamental protocols of computer networks, especially the Internet. Unfortunately, this protocol was designed with minimal security features in mind. This has led us to this point that it has become of the easiest and convenient targets for attackers world wide.
+Jelome will introduce us to ClojureScript from the ground up.
 
-There are numerous DNS server implementations (including open source and non-open source ones) with some security features embedded but none of them have fine granularity control over these features. On the other hand, there has not been a proper DNS-aware load balancer until recently. DNSDist (dnsdist.org) is one of the powerful DDoS-aware DNS load balancer out there totally available open source. Previously, there were UDP load balancers which did not understand DNS protocol properly.
+Clojurescript is a well designed, general-purpose programming language that generates highly optimized Javascript output.
 
-In this talk Bahram will introduce us to the [DNSDist](https://dnsdist.org/) Loadbalancer and its security features.
-Here are some of DNSDist awesome features:
+The Clojurescript syntax is small and simple to learn, although becoming used to thinking functionally will take a little more effort. Functional programming will make your applications simpler to understand and therefore easier to maintain and extend.
 
-- LoadBalancing Policies
-- Effective Caching
-- Packet Policies (Drop, Forward, Answer, Delay)
-- Various Rules (QPS, QType, RCode, QName, Regex, ACL, etc)
-- Dynamic Rule Generation
-- Fine control over responses (RecBit, DNSSec, TTL, etc)
-- Security Protocols (DoH, DoT, DNSCrypt)
-- Using Kernel Features (eBPF, SO_REUSEPORT)
-- Builtin-Webserver and Console access for live monitoring
-- Provide custom functionality using LUA scripts
+Clojurescript also provides an easy way to use Javascript and its vast array of libraries. You can call Javascript functions using the same syntax as Clojurescript.
 
-DNSDist has a high potential for being a commercial out-of-the-box product.
-For example in Open-Xchange they are providing a distribution of DnsDist: https://www.open-xchange.com/portfolio/dnsdist/
+Application design is simple and yet powerful, with a focus on managing data with immutable data structures (list, vector, map & set).
+
+You will also find out what connection ClojureSciprt and React have.
 
 <!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
 
@@ -142,6 +132,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>#045</td>
+            <td>19.07.2020</td>
+            <td>ClojureScript Unpacked</td>
+            <td>Jelome</td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2020/045_clojurescript"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#044</td>
             <td>19.05.2020</td>
