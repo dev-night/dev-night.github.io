@@ -22,10 +22,10 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 14.07.2020
+- Date: 18.08.2020
 - Place: Online
 - Time: 19:15
-- Topic: #045 /dev/night/online - ClojureScript Unpacked
+- Topic: #046 /dev/night/online - Async PHP with Swoole
 <!-- - Pizza and [Mate](http://www.clubmate.de/)! -->
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
@@ -35,17 +35,15 @@ knowledge and experiences. We also gather to learn new things through hands on p
 This will be an online event!
 The link to join: https://join.dev-night.io/
 
-Jelome will introduce us to ClojureScript from the ground up.
+[Juan](https://github.com/juan-morales) will introduce us to the asynchronous world of PHP with the [Swoole](https://www.swoole.co.uk/) framework.
 
-Clojurescript is a well designed, general-purpose programming language that generates highly optimized Javascript output.
+Swoole is an event-driven asynchronous and coroutine-based framework for writing high-performance PHP code. It is implemented as a PHP extension and is written in C and C++.
 
-The Clojurescript syntax is small and simple to learn, although becoming used to thinking functionally will take a little more effort. Functional programming will make your applications simpler to understand and therefore easier to maintain and extend.
+Coroutines can be thought of as ultra-lightweight threads, and you can easily create thousands of coroutines in a single process.
 
-Clojurescript also provides an easy way to use Javascript and its vast array of libraries. You can call Javascript functions using the same syntax as Clojurescript.
+Swoole claims: “Compared with other async programming frameworks or softwares such as Nginx, Tornado, Node.js, Swoole has the built-in PHP coroutine and async support, multiple threads I/O modules. [...] Swoole PHP network framework enhances the efficiency of R&D team, allowing them to focus on the development of innovative products.”
 
-Application design is simple and yet powerful, with a focus on managing data with immutable data structures (list, vector, map & set).
-
-You will also find out what connection ClojureSciprt and React have.
+Juan will explain to us the fundamentals of this framework and walk you through examples and bring some light on the performance claims.
 
 <!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
 
@@ -132,6 +130,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>#046</td>
+            <td>18.08.2020</td>
+            <td>Async PHP with Swoole</td>
+            <td><a href="https://github.com/juan-morales">Juan</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2020/046_swoole"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#045</td>
             <td>19.07.2020</td>
