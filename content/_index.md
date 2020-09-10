@@ -22,28 +22,25 @@ knowledge and experiences. We also gather to learn new things through hands on p
     If that sounds all new to you just bring your laptop.
 </div> -->
 
-- Date: 18.08.2020
+- Date: 15.09.2020
 - Place: Online
-- Time: 19:15
-- Topic: #046 /dev/night/online - Async PHP with Swoole
+- Time: 19:00
+- Topic: #047 /dev/night/online - Setting sail with TailwindCSS
 <!-- - Pizza and [Mate](http://www.clubmate.de/)! -->
 - Meetup: [meetup.com/dev_night](https://meetup.com/dev_night)
 - Contact: [dev-night@tradebyte.com](mailto:dev-night@tradebyte.com)
 - Twitter: [@dev_night](https://twitter.com/dev_night)
 - Hashtag: [#devnight](https://twitter.com/search?q=%23devnight&src=hash)
 
-This will be an online event!
-The link to join: https://join.dev-night.io/
+[Ramesh](https://twitter.com/mhetreramesh) will introduce us to [TailwindCSS](https://tailwindcss.com/) which is a utility-first CSS framework for rapidly building custom designs.
 
-[Juan](https://github.com/juan-morales) will introduce us to the asynchronous world of PHP with the [Swoole](https://www.swoole.co.uk/) framework.
+TailwindCSS claims:
 
-Swoole is an event-driven asynchronous and coroutine-based framework for writing high-performance PHP code. It is implemented as a PHP extension and is written in C and C++.
+> "Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override."
 
-Coroutines can be thought of as ultra-lightweight threads, and you can easily create thousands of coroutines in a single process.
+First, Ramesh will explain what utility-first means and how you can get started with TailwindCSS. This will be followed by real examples and how you can extend TailwindCSS to fit your needs.
 
-Swoole claims: “Compared with other async programming frameworks or softwares such as Nginx, Tornado, Node.js, Swoole has the built-in PHP coroutine and async support, multiple threads I/O modules. [...] Swoole PHP network framework enhances the efficiency of R&D team, allowing them to focus on the development of innovative products.”
-
-Juan will explain to us the fundamentals of this framework and walk you through examples and bring some light on the performance claims.
+If you want to participate in the online event and ask questions live, please join our Slack where the link to join the event will be published.
 
 <!-- [**We will also livestream the event!**](https://stream.dev-night.io) -->
 
@@ -130,6 +127,13 @@ Awesome! Just visit our [**talks submission page**](https://github.com/dev-night
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>#047</td>
+            <td>15.09.2020</td>
+            <td>Setting sail with TailwindCSS</td>
+            <td><a href="https://twitter.com/mhetreramesh">Ramesh</a></td>
+            <td><a class="repo_link" href="https://github.com/dev-night/talks/tree/master/slides/2020/047_tailwindcss"><i class="fab fa-github fa-2" aria-hidden="true"></i></a></td>
+        </tr>
         <tr>
             <td>#046</td>
             <td>18.08.2020</td>
